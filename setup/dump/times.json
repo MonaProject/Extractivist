@@ -1,0 +1,6300 @@
+[
+  {
+    "finish": "20120531235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-05\">This may</TIMEX3>", 
+    "normalized_ner": "2012-05", 
+    "pos": "MD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "may 2012", 
+    "start": "20120501000000", 
+    "mentions": [
+      {
+        "article": "1", 
+        "begin": 2530, 
+        "end": 2538, 
+        "id": 13
+      }, 
+      {
+        "article": "23", 
+        "begin": 3744, 
+        "end": 3747, 
+        "id": 744
+      }, 
+      {
+        "article": "45", 
+        "begin": 6097, 
+        "end": 6107, 
+        "id": 1998
+      }, 
+      {
+        "article": "45", 
+        "begin": 2125, 
+        "end": 2128, 
+        "id": 2042
+      }
+    ], 
+    "label": "May 2012"
+  }, 
+  {
+    "finish": "20120424235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-04-24\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-04-24", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "24 april 2012", 
+    "start": "20120424000000", 
+    "mentions": [
+      {
+        "article": "1", 
+        "begin": 1777, 
+        "end": 1784, 
+        "id": 25
+      }, 
+      {
+        "article": "1", 
+        "begin": 0, 
+        "end": 111, 
+        "id": 38
+      }, 
+      {
+        "article": "1", 
+        "begin": 205, 
+        "end": 212, 
+        "id": 38
+      }
+    ], 
+    "label": "24 April 2012"
+  }, 
+  {
+    "finish": "20120415235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W16\">last week</TIMEX3>", 
+    "normalized_ner": "2012-W16", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 16 of 2012", 
+    "start": "20120409000000", 
+    "mentions": [
+      {
+        "article": "1", 
+        "begin": 1330, 
+        "end": 1339, 
+        "id": 29
+      }, 
+      {
+        "article": "1", 
+        "begin": 1330, 
+        "end": 1339, 
+        "id": 30
+      }
+    ], 
+    "label": "Week 16 of 2012"
+  }, 
+  {
+    "finish": "20120424143059", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-04-24T14:30\">2:30 p.m.</TIMEX3>", 
+    "normalized_ner": "2012-04-24T14:30", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "24 april 2012 at 14:30", 
+    "start": "20120424143000", 
+    "mentions": [
+      {
+        "article": "1", 
+        "begin": 744, 
+        "end": 753, 
+        "id": 32
+      }
+    ], 
+    "label": "24 April 2012 at 14:30"
+  }, 
+  {
+    "finish": "20120424125959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-04-24TAF\">Tuesday afternoon</TIMEX3>", 
+    "normalized_ner": "2012-04-24TAF", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "afternoon of 24 april 2012", 
+    "start": "20120424060000", 
+    "mentions": [
+      {
+        "article": "1", 
+        "begin": 449, 
+        "end": 466, 
+        "id": 36
+      }
+    ], 
+    "label": "afternoon of 24 April 2012"
+  }, 
+  {
+    "finish": "20120708235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W28\">last week</TIMEX3>", 
+    "normalized_ner": "2012-W28", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 28 of 2012", 
+    "start": "20120702000000", 
+    "mentions": [
+      {
+        "article": "10", 
+        "begin": 5603, 
+        "end": 5612, 
+        "id": 45
+      }
+    ], 
+    "label": "Week 28 of 2012"
+  }, 
+  {
+    "finish": "20120731235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-07\">this month</TIMEX3>", 
+    "normalized_ner": "2012-07", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "july 2012", 
+    "start": "20120701000000", 
+    "mentions": [
+      {
+        "article": "10", 
+        "begin": 5397, 
+        "end": 5407, 
+        "id": 46
+      }, 
+      {
+        "article": "10", 
+        "begin": 5397, 
+        "end": 5407, 
+        "id": 49
+      }, 
+      {
+        "article": "10", 
+        "begin": 4596, 
+        "end": 4606, 
+        "id": 65
+      }, 
+      {
+        "article": "10", 
+        "begin": 3270, 
+        "end": 3280, 
+        "id": 79
+      }, 
+      {
+        "article": "10", 
+        "begin": 3270, 
+        "end": 3280, 
+        "id": 80
+      }, 
+      {
+        "article": "10", 
+        "begin": 3270, 
+        "end": 3280, 
+        "id": 81
+      }, 
+      {
+        "article": "10", 
+        "begin": 1984, 
+        "end": 1994, 
+        "id": 92
+      }, 
+      {
+        "article": "10", 
+        "begin": 1118, 
+        "end": 1128, 
+        "id": 101
+      }, 
+      {
+        "article": "10", 
+        "begin": 188, 
+        "end": 198, 
+        "id": 109
+      }, 
+      {
+        "article": "19", 
+        "begin": 322, 
+        "end": 332, 
+        "id": 542
+      }, 
+      {
+        "article": "19", 
+        "begin": 322, 
+        "end": 332, 
+        "id": 543
+      }, 
+      {
+        "article": "19", 
+        "begin": 322, 
+        "end": 332, 
+        "id": 544
+      }, 
+      {
+        "article": "19", 
+        "begin": 322, 
+        "end": 332, 
+        "id": 545
+      }, 
+      {
+        "article": "19", 
+        "begin": 322, 
+        "end": 332, 
+        "id": 546
+      }, 
+      {
+        "article": "20", 
+        "begin": 1459, 
+        "end": 1463, 
+        "id": 639
+      }, 
+      {
+        "article": "20", 
+        "begin": 1453, 
+        "end": 1457, 
+        "id": 640
+      }, 
+      {
+        "article": "20", 
+        "begin": 1453, 
+        "end": 1457, 
+        "id": 641
+      }, 
+      {
+        "article": "20", 
+        "begin": 1453, 
+        "end": 1457, 
+        "id": 642
+      }, 
+      {
+        "article": "20", 
+        "begin": 1459, 
+        "end": 1463, 
+        "id": 642
+      }, 
+      {
+        "article": "20", 
+        "begin": 1453, 
+        "end": 1457, 
+        "id": 643
+      }, 
+      {
+        "article": "20", 
+        "begin": 1459, 
+        "end": 1463, 
+        "id": 643
+      }, 
+      {
+        "article": "20", 
+        "begin": 1453, 
+        "end": 1457, 
+        "id": 644
+      }, 
+      {
+        "article": "20", 
+        "begin": 1459, 
+        "end": 1463, 
+        "id": 644
+      }
+    ], 
+    "label": "July 2012"
+  }, 
+  {
+    "finish": "20121231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012\">This year</TIMEX3>", 
+    "normalized_ner": "2012", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2012", 
+    "start": "20120101000000", 
+    "mentions": [
+      {
+        "article": "10", 
+        "begin": 4893, 
+        "end": 4902, 
+        "id": 60
+      }, 
+      {
+        "article": "10", 
+        "begin": 4192, 
+        "end": 4201, 
+        "id": 71
+      }, 
+      {
+        "article": "10", 
+        "begin": 4192, 
+        "end": 4201, 
+        "id": 72
+      }, 
+      {
+        "article": "14", 
+        "begin": 3081, 
+        "end": 3090, 
+        "id": 266
+      }, 
+      {
+        "article": "14", 
+        "begin": 3081, 
+        "end": 3090, 
+        "id": 267
+      }, 
+      {
+        "article": "14", 
+        "begin": 3081, 
+        "end": 3090, 
+        "id": 268
+      }, 
+      {
+        "article": "14", 
+        "begin": 3081, 
+        "end": 3090, 
+        "id": 269
+      }, 
+      {
+        "article": "14", 
+        "begin": 1345, 
+        "end": 1354, 
+        "id": 283
+      }, 
+      {
+        "article": "14", 
+        "begin": 1345, 
+        "end": 1354, 
+        "id": 284
+      }, 
+      {
+        "article": "14", 
+        "begin": 1345, 
+        "end": 1354, 
+        "id": 285
+      }, 
+      {
+        "article": "15", 
+        "begin": 5535, 
+        "end": 5539, 
+        "id": 296
+      }, 
+      {
+        "article": "15", 
+        "begin": 3427, 
+        "end": 3431, 
+        "id": 316
+      }, 
+      {
+        "article": "15", 
+        "begin": 3427, 
+        "end": 3431, 
+        "id": 317
+      }, 
+      {
+        "article": "15", 
+        "begin": 292, 
+        "end": 296, 
+        "id": 345
+      }, 
+      {
+        "article": "20", 
+        "begin": 5265, 
+        "end": 5273, 
+        "id": 592
+      }, 
+      {
+        "article": "25", 
+        "begin": 8207, 
+        "end": 8211, 
+        "id": 881
+      }, 
+      {
+        "article": "25", 
+        "begin": 8207, 
+        "end": 8211, 
+        "id": 882
+      }, 
+      {
+        "article": "25", 
+        "begin": 1780, 
+        "end": 1784, 
+        "id": 946
+      }, 
+      {
+        "article": "25", 
+        "begin": 1780, 
+        "end": 1784, 
+        "id": 947
+      }, 
+      {
+        "article": "25", 
+        "begin": 1780, 
+        "end": 1784, 
+        "id": 948
+      }, 
+      {
+        "article": "25", 
+        "begin": 932, 
+        "end": 936, 
+        "id": 958
+      }, 
+      {
+        "article": "25", 
+        "begin": 932, 
+        "end": 936, 
+        "id": 959
+      }, 
+      {
+        "article": "27", 
+        "begin": 6288, 
+        "end": 6297, 
+        "id": 1018
+      }, 
+      {
+        "article": "28", 
+        "begin": 2687, 
+        "end": 2702, 
+        "id": 1119
+      }, 
+      {
+        "article": "28", 
+        "begin": 2687, 
+        "end": 2702, 
+        "id": 1120
+      }, 
+      {
+        "article": "28", 
+        "begin": 2687, 
+        "end": 2702, 
+        "id": 1121
+      }, 
+      {
+        "article": "30", 
+        "begin": 1496, 
+        "end": 1504, 
+        "id": 1235
+      }, 
+      {
+        "article": "30", 
+        "begin": 1496, 
+        "end": 1504, 
+        "id": 1236
+      }, 
+      {
+        "article": "31", 
+        "begin": 8359, 
+        "end": 8363, 
+        "id": 1281
+      }, 
+      {
+        "article": "31", 
+        "begin": 6870, 
+        "end": 6874, 
+        "id": 1298
+      }, 
+      {
+        "article": "31", 
+        "begin": 3207, 
+        "end": 3216, 
+        "id": 1329
+      }, 
+      {
+        "article": "31", 
+        "begin": 3207, 
+        "end": 3216, 
+        "id": 1331
+      }, 
+      {
+        "article": "31", 
+        "begin": 422, 
+        "end": 435, 
+        "id": 1356
+      }, 
+      {
+        "article": "31", 
+        "begin": 439, 
+        "end": 443, 
+        "id": 1356
+      }, 
+      {
+        "article": "32", 
+        "begin": 2433, 
+        "end": 2442, 
+        "id": 1375
+      }, 
+      {
+        "article": "32", 
+        "begin": 2433, 
+        "end": 2442, 
+        "id": 1377
+      }, 
+      {
+        "article": "34", 
+        "begin": 3704, 
+        "end": 3713, 
+        "id": 1453
+      }, 
+      {
+        "article": "35", 
+        "begin": 1290, 
+        "end": 1294, 
+        "id": 1519
+      }, 
+      {
+        "article": "35", 
+        "begin": 1490, 
+        "end": 1499, 
+        "id": 1519
+      }, 
+      {
+        "article": "41", 
+        "begin": 123, 
+        "end": 127, 
+        "id": 1827
+      }, 
+      {
+        "article": "41", 
+        "begin": 123, 
+        "end": 127, 
+        "id": 1831
+      }, 
+      {
+        "article": "9", 
+        "begin": 362, 
+        "end": 366, 
+        "id": 2218
+      }, 
+      {
+        "article": "9", 
+        "begin": 169, 
+        "end": 177, 
+        "id": 2220
+      }
+    ], 
+    "label": "2012"
+  }, 
+  {
+    "finish": "20120831235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-08\">August</TIMEX3>", 
+    "normalized_ner": "2012-08", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "august 2012", 
+    "start": "20120801000000", 
+    "mentions": [
+      {
+        "article": "10", 
+        "begin": 4506, 
+        "end": 4512, 
+        "id": 66
+      }, 
+      {
+        "article": "10", 
+        "begin": 4506, 
+        "end": 4512, 
+        "id": 67
+      }, 
+      {
+        "article": "10", 
+        "begin": 3098, 
+        "end": 3114, 
+        "id": 82
+      }, 
+      {
+        "article": "10", 
+        "begin": 2326, 
+        "end": 2336, 
+        "id": 90
+      }, 
+      {
+        "article": "11", 
+        "begin": 399, 
+        "end": 415, 
+        "id": 136
+      }, 
+      {
+        "article": "11", 
+        "begin": 399, 
+        "end": 415, 
+        "id": 137
+      }, 
+      {
+        "article": "11", 
+        "begin": 399, 
+        "end": 415, 
+        "id": 138
+      }, 
+      {
+        "article": "11", 
+        "begin": 399, 
+        "end": 415, 
+        "id": 139
+      }, 
+      {
+        "article": "11", 
+        "begin": 183, 
+        "end": 189, 
+        "id": 140
+      }, 
+      {
+        "article": "11", 
+        "begin": 183, 
+        "end": 189, 
+        "id": 141
+      }, 
+      {
+        "article": "11", 
+        "begin": 183, 
+        "end": 189, 
+        "id": 142
+      }, 
+      {
+        "article": "36", 
+        "begin": 4045, 
+        "end": 4056, 
+        "id": 1543
+      }, 
+      {
+        "article": "4", 
+        "begin": 246, 
+        "end": 256, 
+        "id": 1732
+      }
+    ], 
+    "label": "August 2012"
+  }, 
+  {
+    "finish": "20120321235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-WI\">winter</TIMEX3>", 
+    "normalized_ner": "2012-WI", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "winter of 2012", 
+    "start": "20111223000000", 
+    "mentions": [
+      {
+        "article": "10", 
+        "begin": 4134, 
+        "end": 4140, 
+        "id": 72
+      }, 
+      {
+        "article": "9", 
+        "begin": 1288, 
+        "end": 1294, 
+        "id": 2206
+      }, 
+      {
+        "article": "9", 
+        "begin": 1288, 
+        "end": 1294, 
+        "id": 2207
+      }, 
+      {
+        "article": "9", 
+        "begin": 1288, 
+        "end": 1294, 
+        "id": 2208
+      }, 
+      {
+        "article": "9", 
+        "begin": 1288, 
+        "end": 1294, 
+        "id": 2209
+      }
+    ], 
+    "label": "winter of 2012"
+  }, 
+  {
+    "finish": "20120715235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-07-15\">a week ago</TIMEX3>", 
+    "normalized_ner": "2012-07-15", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "15 july 2012", 
+    "start": "20120715000000", 
+    "mentions": [
+      {
+        "article": "10", 
+        "begin": 4067, 
+        "end": 4077, 
+        "id": 73
+      }
+    ], 
+    "label": "15 July 2012"
+  }, 
+  {
+    "finish": "20120712235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-07-12TXX\">the last minute</TIMEX3>", 
+    "normalized_ner": "2012-07-12TXX", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "12 july 2012", 
+    "start": "20120712000000", 
+    "mentions": [
+      {
+        "article": "11", 
+        "begin": 1452, 
+        "end": 1467, 
+        "id": 115
+      }, 
+      {
+        "article": "11", 
+        "begin": 1452, 
+        "end": 1467, 
+        "id": 119
+      }
+    ], 
+    "label": "12 July 2012"
+  }, 
+  {
+    "finish": "20120715235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W29\">the coming weeks</TIMEX3>", 
+    "normalized_ner": "2012-W29", 
+    "pos": "NNS", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 29 of 2012", 
+    "start": "20120709000000", 
+    "mentions": [
+      {
+        "article": "11", 
+        "begin": 756, 
+        "end": 772, 
+        "id": 129
+      }, 
+      {
+        "article": "11", 
+        "begin": 756, 
+        "end": 772, 
+        "id": 130
+      }, 
+      {
+        "article": "11", 
+        "begin": 756, 
+        "end": 772, 
+        "id": 131
+      }
+    ], 
+    "label": "Week 29 of 2012"
+  }, 
+  {
+    "finish": "20130131235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2013-01\">January</TIMEX3>", 
+    "normalized_ner": "2013-01", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "january 2013", 
+    "start": "20130101000000", 
+    "mentions": [
+      {
+        "article": "11", 
+        "begin": 607, 
+        "end": 614, 
+        "id": 132
+      }, 
+      {
+        "article": "11", 
+        "begin": 607, 
+        "end": 614, 
+        "id": 133
+      }, 
+      {
+        "article": "11", 
+        "begin": 607, 
+        "end": 614, 
+        "id": 134
+      }, 
+      {
+        "article": "37", 
+        "begin": 736, 
+        "end": 746, 
+        "id": 1628
+      }
+    ], 
+    "label": "January 2013"
+  }, 
+  {
+    "finish": "20120628235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-06-28\">June 28</TIMEX3>", 
+    "normalized_ner": "2012-06-28", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "28 june 2012", 
+    "start": "20120628000000", 
+    "mentions": [
+      {
+        "article": "11", 
+        "begin": 457, 
+        "end": 464, 
+        "id": 134
+      }, 
+      {
+        "article": "11", 
+        "begin": 457, 
+        "end": 464, 
+        "id": 135
+      }
+    ], 
+    "label": "28 June 2012"
+  }, 
+  {
+    "finish": "20120713235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-07-13\">2012/07/13</TIMEX3>", 
+    "normalized_ner": "2012-07-13", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "13 july 2012", 
+    "start": "20120713000000", 
+    "mentions": [
+      {
+        "article": "11", 
+        "begin": 0, 
+        "end": 94, 
+        "id": 142
+      }
+    ], 
+    "label": "13 July 2012"
+  }, 
+  {
+    "finish": "19920624235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1992-06-24\">20 years ago</TIMEX3>", 
+    "normalized_ner": "1992-06-24", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "24 june 1992", 
+    "start": "19920624000000", 
+    "mentions": [
+      {
+        "article": "12", 
+        "begin": 2952, 
+        "end": 2964, 
+        "id": 176
+      }, 
+      {
+        "article": "12", 
+        "begin": 2952, 
+        "end": 2964, 
+        "id": 177
+      }, 
+      {
+        "article": "12", 
+        "begin": 2952, 
+        "end": 2964, 
+        "id": 178
+      }, 
+      {
+        "article": "12", 
+        "begin": 2952, 
+        "end": 2964, 
+        "id": 179
+      }, 
+      {
+        "article": "12", 
+        "begin": 2952, 
+        "end": 2964, 
+        "id": 180
+      }
+    ], 
+    "label": "24 June 1992"
+  }, 
+  {
+    "finish": "19921231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"1992\">1992</TIMEX3>", 
+    "normalized_ner": "1992", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1992", 
+    "start": "19920101000000", 
+    "mentions": [
+      {
+        "article": "12", 
+        "begin": 387, 
+        "end": 391, 
+        "id": 203
+      }, 
+      {
+        "article": "12", 
+        "begin": 387, 
+        "end": 391, 
+        "id": 204
+      }, 
+      {
+        "article": "12", 
+        "begin": 387, 
+        "end": 391, 
+        "id": 205
+      }, 
+      {
+        "article": "36", 
+        "begin": 1145, 
+        "end": 1149, 
+        "id": 1577
+      }
+    ], 
+    "label": "1992"
+  }, 
+  {
+    "finish": "20120228235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-02-28\">this day</TIMEX3>", 
+    "normalized_ner": "2012-02-28", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "28 february 2012", 
+    "start": "20120228000000", 
+    "mentions": [
+      {
+        "article": "13", 
+        "begin": 2253, 
+        "end": 2261, 
+        "id": 213
+      }, 
+      {
+        "article": "13", 
+        "begin": 2253, 
+        "end": 2261, 
+        "id": 214
+      }, 
+      {
+        "article": "13", 
+        "begin": 382, 
+        "end": 389, 
+        "id": 233
+      }, 
+      {
+        "article": "13", 
+        "begin": 0, 
+        "end": 91, 
+        "id": 237
+      }
+    ], 
+    "label": "28 February 2012"
+  }, 
+  {
+    "finish": "20111031235959", 
+    "timex": "<TIMEX3 mod=\"LATE\" tid=\"t1\" type=\"DATE\" value=\"2011-10\">late October</TIMEX3>", 
+    "normalized_ner": "2011-10", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "october 2011", 
+    "start": "20111001000000", 
+    "mentions": [
+      {
+        "article": "13", 
+        "begin": 1478, 
+        "end": 1490, 
+        "id": 219
+      }, 
+      {
+        "article": "13", 
+        "begin": 1478, 
+        "end": 1490, 
+        "id": 220
+      }, 
+      {
+        "article": "13", 
+        "begin": 1478, 
+        "end": 1490, 
+        "id": 221
+      }
+    ], 
+    "label": "October 2011"
+  }, 
+  {
+    "finish": "20201231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2020\">2020</TIMEX3>", 
+    "normalized_ner": "2020", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2020", 
+    "start": "20200101000000", 
+    "mentions": [
+      {
+        "article": "13", 
+        "begin": 1127, 
+        "end": 1131, 
+        "id": 225
+      }, 
+      {
+        "article": "13", 
+        "begin": 1127, 
+        "end": 1131, 
+        "id": 226
+      }, 
+      {
+        "article": "14", 
+        "begin": 4428, 
+        "end": 4432, 
+        "id": 249
+      }, 
+      {
+        "article": "14", 
+        "begin": 4428, 
+        "end": 4432, 
+        "id": 250
+      }, 
+      {
+        "article": "9", 
+        "begin": 2321, 
+        "end": 2325, 
+        "id": 2195
+      }
+    ], 
+    "label": "2020"
+  }, 
+  {
+    "finish": "20101031235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2010-10\">October 2010</TIMEX3>", 
+    "normalized_ner": "2010-10", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "october 2010", 
+    "start": "20101001000000", 
+    "mentions": [
+      {
+        "article": "13", 
+        "begin": 1053, 
+        "end": 1065, 
+        "id": 226
+      }
+    ], 
+    "label": "October 2010"
+  }, 
+  {
+    "finish": "20091126235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2009-11-26\">three years ago</TIMEX3>", 
+    "normalized_ner": "2009-11-26", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "26 november 2009", 
+    "start": "20091126000000", 
+    "mentions": [
+      {
+        "article": "14", 
+        "begin": 2013, 
+        "end": 2028, 
+        "id": 279
+      }, 
+      {
+        "article": "14", 
+        "begin": 2013, 
+        "end": 2028, 
+        "id": 280
+      }
+    ], 
+    "label": "26 November 2009"
+  }, 
+  {
+    "finish": "20121126235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-11-26\">today</TIMEX3>", 
+    "normalized_ner": "2012-11-26", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "26 november 2012", 
+    "start": "20121126000000", 
+    "mentions": [
+      {
+        "article": "14", 
+        "begin": 1682, 
+        "end": 1687, 
+        "id": 281
+      }, 
+      {
+        "article": "14", 
+        "begin": 1682, 
+        "end": 1687, 
+        "id": 282
+      }, 
+      {
+        "article": "14", 
+        "begin": 1186, 
+        "end": 1197, 
+        "id": 285
+      }, 
+      {
+        "article": "14", 
+        "begin": 1192, 
+        "end": 1197, 
+        "id": 287
+      }, 
+      {
+        "article": "14", 
+        "begin": 0, 
+        "end": 114, 
+        "id": 295
+      }
+    ], 
+    "label": "26 November 2012"
+  }, 
+  {
+    "finish": "20121207235959", 
+    "timex": "<TIMEX3 tid=\"t3\" type=\"DATE\" value=\"2012-12-07\">Dec. 7</TIMEX3>", 
+    "normalized_ner": "2012-12-07", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "7 december 2012", 
+    "start": "20121207000000", 
+    "mentions": [
+      {
+        "article": "14", 
+        "begin": 1219, 
+        "end": 1225, 
+        "id": 285
+      }, 
+      {
+        "article": "14", 
+        "begin": 1219, 
+        "end": 1225, 
+        "id": 286
+      }, 
+      {
+        "article": "14", 
+        "begin": 1219, 
+        "end": 1225, 
+        "id": 287
+      }
+    ], 
+    "label": "7 December 2012"
+  }, 
+  {
+    "finish": "20120630235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-06\">June</TIMEX3>", 
+    "normalized_ner": "2012-06", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "june 2012", 
+    "start": "20120601000000", 
+    "mentions": [
+      {
+        "article": "14", 
+        "begin": 664, 
+        "end": 668, 
+        "id": 290
+      }, 
+      {
+        "article": "19", 
+        "begin": 1594, 
+        "end": 1604, 
+        "id": 525
+      }, 
+      {
+        "article": "29", 
+        "begin": 1132, 
+        "end": 1136, 
+        "id": 1151
+      }, 
+      {
+        "article": "29", 
+        "begin": 1132, 
+        "end": 1136, 
+        "id": 1152
+      }, 
+      {
+        "article": "29", 
+        "begin": 1132, 
+        "end": 1136, 
+        "id": 1153
+      }
+    ], 
+    "label": "June 2012"
+  }, 
+  {
+    "finish": "20121125235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W48\">this week</TIMEX3>", 
+    "normalized_ner": "2012-W48", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 48 of 2012", 
+    "start": "20121119000000", 
+    "mentions": [
+      {
+        "article": "14", 
+        "begin": 325, 
+        "end": 334, 
+        "id": 292
+      }, 
+      {
+        "article": "14", 
+        "begin": 325, 
+        "end": 334, 
+        "id": 293
+      }
+    ], 
+    "label": "Week 48 of 2012"
+  }, 
+  {
+    "finish": "20121114235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-11-14\">Nov. 14</TIMEX3>", 
+    "normalized_ner": "2012-11-14", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "14 november 2012", 
+    "start": "20121114000000", 
+    "mentions": [
+      {
+        "article": "14", 
+        "begin": 225, 
+        "end": 232, 
+        "id": 294
+      }, 
+      {
+        "article": "14", 
+        "begin": 225, 
+        "end": 232, 
+        "id": 295
+      }
+    ], 
+    "label": "14 November 2012"
+  }, 
+  {
+    "finish": "20121016235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-10-16\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-10-16", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "16 october 2012", 
+    "start": "20121016000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 5372, 
+        "end": 5379, 
+        "id": 300
+      }
+    ], 
+    "label": "16 October 2012"
+  }, 
+  {
+    "finish": "20081231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2008\">2008</TIMEX3>", 
+    "normalized_ner": "2008", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2008", 
+    "start": "20080101000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 5219, 
+        "end": 5223, 
+        "id": 302
+      }, 
+      {
+        "article": "24", 
+        "begin": 3610, 
+        "end": 3614, 
+        "id": 837
+      }, 
+      {
+        "article": "31", 
+        "begin": 10642, 
+        "end": 10646, 
+        "id": 1253
+      }, 
+      {
+        "article": "31", 
+        "begin": 10642, 
+        "end": 10646, 
+        "id": 1254
+      }, 
+      {
+        "article": "32", 
+        "begin": 3495, 
+        "end": 3499, 
+        "id": 1361
+      }, 
+      {
+        "article": "32", 
+        "begin": 3495, 
+        "end": 3499, 
+        "id": 1362
+      }, 
+      {
+        "article": "32", 
+        "begin": 3495, 
+        "end": 3499, 
+        "id": 1363
+      }, 
+      {
+        "article": "40", 
+        "begin": 1305, 
+        "end": 1309, 
+        "id": 1796
+      }, 
+      {
+        "article": "40", 
+        "begin": 558, 
+        "end": 562, 
+        "id": 1807
+      }, 
+      {
+        "article": "40", 
+        "begin": 558, 
+        "end": 562, 
+        "id": 1808
+      }, 
+      {
+        "article": "40", 
+        "begin": 558, 
+        "end": 562, 
+        "id": 1809
+      }, 
+      {
+        "article": "45", 
+        "begin": 4299, 
+        "end": 4303, 
+        "id": 2017
+      }
+    ], 
+    "label": "2008"
+  }, 
+  {
+    "finish": "20101231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2010\">2010</TIMEX3>", 
+    "normalized_ner": "2010", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2010", 
+    "start": "20100101000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 5099, 
+        "end": 5103, 
+        "id": 304
+      }, 
+      {
+        "article": "15", 
+        "begin": 1095, 
+        "end": 1099, 
+        "id": 338
+      }, 
+      {
+        "article": "15", 
+        "begin": 803, 
+        "end": 807, 
+        "id": 340
+      }, 
+      {
+        "article": "15", 
+        "begin": 803, 
+        "end": 807, 
+        "id": 342
+      }, 
+      {
+        "article": "16", 
+        "begin": 2143, 
+        "end": 2147, 
+        "id": 374
+      }, 
+      {
+        "article": "16", 
+        "begin": 2143, 
+        "end": 2147, 
+        "id": 375
+      }, 
+      {
+        "article": "16", 
+        "begin": 2143, 
+        "end": 2147, 
+        "id": 377
+      }, 
+      {
+        "article": "24", 
+        "begin": 851, 
+        "end": 855, 
+        "id": 869
+      }, 
+      {
+        "article": "27", 
+        "begin": 4448, 
+        "end": 4452, 
+        "id": 1043
+      }, 
+      {
+        "article": "27", 
+        "begin": 4448, 
+        "end": 4452, 
+        "id": 1044
+      }, 
+      {
+        "article": "27", 
+        "begin": 4448, 
+        "end": 4452, 
+        "id": 1045
+      }, 
+      {
+        "article": "30", 
+        "begin": 459, 
+        "end": 463, 
+        "id": 1248
+      }, 
+      {
+        "article": "30", 
+        "begin": 459, 
+        "end": 463, 
+        "id": 1249
+      }, 
+      {
+        "article": "30", 
+        "begin": 459, 
+        "end": 463, 
+        "id": 1250
+      }, 
+      {
+        "article": "34", 
+        "begin": 3724, 
+        "end": 3728, 
+        "id": 1453
+      }, 
+      {
+        "article": "36", 
+        "begin": 3878, 
+        "end": 3882, 
+        "id": 1546
+      }, 
+      {
+        "article": "36", 
+        "begin": 3878, 
+        "end": 3882, 
+        "id": 1547
+      }, 
+      {
+        "article": "36", 
+        "begin": 3878, 
+        "end": 3882, 
+        "id": 1548
+      }, 
+      {
+        "article": "38", 
+        "begin": 533, 
+        "end": 542, 
+        "id": 1666
+      }, 
+      {
+        "article": "38", 
+        "begin": 533, 
+        "end": 542, 
+        "id": 1667
+      }, 
+      {
+        "article": "45", 
+        "begin": 5358, 
+        "end": 5362, 
+        "id": 2005
+      }, 
+      {
+        "article": "7", 
+        "begin": 1582, 
+        "end": 1586, 
+        "id": 2133
+      }
+    ], 
+    "label": "2010"
+  }, 
+  {
+    "finish": "20121017065959", 
+    "timex": "<TIMEX3 mod=\"EARLY\" tid=\"t1\" type=\"TIME\" value=\"2012-10-17TMO\">early morning</TIMEX3>", 
+    "normalized_ner": "2012-10-17TMO", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "morning of 17 october 2012", 
+    "start": "20121017000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 3836, 
+        "end": 3849, 
+        "id": 314
+      }
+    ], 
+    "label": "morning of 17 October 2012"
+  }, 
+  {
+    "finish": "20121009235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-10-09\">Oct. 9</TIMEX3>", 
+    "normalized_ner": "2012-10-09", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "9 october 2012", 
+    "start": "20121009000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 2782, 
+        "end": 2788, 
+        "id": 323
+      }
+    ], 
+    "label": "9 October 2012"
+  }, 
+  {
+    "finish": "20120927235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-09-27\">Sept. 27</TIMEX3>", 
+    "normalized_ner": "2012-09-27", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "27 september 2012", 
+    "start": "20120927000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 2174, 
+        "end": 2182, 
+        "id": 331
+      }, 
+      {
+        "article": "15", 
+        "begin": 678, 
+        "end": 686, 
+        "id": 342
+      }
+    ], 
+    "label": "27 September 2012"
+  }, 
+  {
+    "finish": "20121017005959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-10-17TNI\">night before</TIMEX3>", 
+    "normalized_ner": "2012-10-17TNI", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "night of 17 october 2012", 
+    "start": "20121017180000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 2084, 
+        "end": 2089, 
+        "id": 332
+      }
+    ], 
+    "label": "night of 17 October 2012"
+  }, 
+  {
+    "finish": "20121014235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W42\">this week</TIMEX3>", 
+    "normalized_ner": "2012-W42", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 42 of 2012", 
+    "start": "20121008000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 967, 
+        "end": 976, 
+        "id": 339
+      }
+    ], 
+    "label": "Week 42 of 2012"
+  }, 
+  {
+    "finish": "20120929235959", 
+    "timex": "<TIMEX3 tid=\"t3\" type=\"DATE\" value=\"2012-09-29\">Sept. 29</TIMEX3>", 
+    "normalized_ner": "2012-09-29", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "29 september 2012", 
+    "start": "20120929000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 745, 
+        "end": 753, 
+        "id": 340
+      }, 
+      {
+        "article": "15", 
+        "begin": 745, 
+        "end": 753, 
+        "id": 341
+      }, 
+      {
+        "article": "15", 
+        "begin": 745, 
+        "end": 753, 
+        "id": 342
+      }
+    ], 
+    "label": "29 September 2012"
+  }, 
+  {
+    "finish": "20121014235959", 
+    "timex": "<TIMEX3 tid=\"t4\" type=\"DATE\" value=\"2012-10-14\">Sunday</TIMEX3>", 
+    "normalized_ner": "2012-10-14", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "14 october 2012", 
+    "start": "20121014000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 757, 
+        "end": 763, 
+        "id": 340
+      }, 
+      {
+        "article": "15", 
+        "begin": 757, 
+        "end": 763, 
+        "id": 341
+      }, 
+      {
+        "article": "15", 
+        "begin": 757, 
+        "end": 763, 
+        "id": 342
+      }
+    ], 
+    "label": "14 October 2012"
+  }, 
+  {
+    "finish": "20121017235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-10-17\">the day</TIMEX3>", 
+    "normalized_ner": "2012-10-17", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "17 october 2012", 
+    "start": "20121017000000", 
+    "mentions": [
+      {
+        "article": "15", 
+        "begin": 271, 
+        "end": 278, 
+        "id": 346
+      }, 
+      {
+        "article": "31", 
+        "begin": 2529, 
+        "end": 2539, 
+        "id": 1338
+      }
+    ], 
+    "label": "17 October 2012"
+  }, 
+  {
+    "finish": "20131231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013\">the year</TIMEX3>", 
+    "normalized_ner": "2013", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2013", 
+    "start": "20130101000000", 
+    "mentions": [
+      {
+        "article": "16", 
+        "begin": 4161, 
+        "end": 4169, 
+        "id": 350
+      }, 
+      {
+        "article": "16", 
+        "begin": 4161, 
+        "end": 4169, 
+        "id": 351
+      }, 
+      {
+        "article": "17", 
+        "begin": 3923, 
+        "end": 3927, 
+        "id": 399
+      }, 
+      {
+        "article": "17", 
+        "begin": 3923, 
+        "end": 3927, 
+        "id": 400
+      }, 
+      {
+        "article": "17", 
+        "begin": 3923, 
+        "end": 3927, 
+        "id": 401
+      }, 
+      {
+        "article": "17", 
+        "begin": 3634, 
+        "end": 3643, 
+        "id": 405
+      }, 
+      {
+        "article": "17", 
+        "begin": 3634, 
+        "end": 3643, 
+        "id": 406
+      }, 
+      {
+        "article": "17", 
+        "begin": 3634, 
+        "end": 3643, 
+        "id": 407
+      }, 
+      {
+        "article": "31", 
+        "begin": 9332, 
+        "end": 9341, 
+        "id": 1270
+      }, 
+      {
+        "article": "31", 
+        "begin": 5083, 
+        "end": 5098, 
+        "id": 1309
+      }, 
+      {
+        "article": "31", 
+        "begin": 5083, 
+        "end": 5098, 
+        "id": 1310
+      }, 
+      {
+        "article": "31", 
+        "begin": 3149, 
+        "end": 3153, 
+        "id": 1330
+      }, 
+      {
+        "article": "31", 
+        "begin": 3149, 
+        "end": 3153, 
+        "id": 1331
+      }, 
+      {
+        "article": "31", 
+        "begin": 1993, 
+        "end": 2006, 
+        "id": 1343
+      }, 
+      {
+        "article": "31", 
+        "begin": 1069, 
+        "end": 1082, 
+        "id": 1349
+      }, 
+      {
+        "article": "35", 
+        "begin": 1161, 
+        "end": 1187, 
+        "id": 1520
+      }, 
+      {
+        "article": "37", 
+        "begin": 2898, 
+        "end": 2907, 
+        "id": 1596
+      }, 
+      {
+        "article": "37", 
+        "begin": 2898, 
+        "end": 2907, 
+        "id": 1597
+      }, 
+      {
+        "article": "37", 
+        "begin": 2898, 
+        "end": 2907, 
+        "id": 1598
+      }, 
+      {
+        "article": "37", 
+        "begin": 2753, 
+        "end": 2757, 
+        "id": 1599
+      }, 
+      {
+        "article": "37", 
+        "begin": 2753, 
+        "end": 2757, 
+        "id": 1600
+      }, 
+      {
+        "article": "37", 
+        "begin": 2753, 
+        "end": 2757, 
+        "id": 1601
+      }, 
+      {
+        "article": "45", 
+        "begin": 3862, 
+        "end": 3871, 
+        "id": 2023
+      }
+    ], 
+    "label": "2013"
+  }, 
+  {
+    "finish": "20130923235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-SU\">summer</TIMEX3>", 
+    "normalized_ner": "2013-SU", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "summer of 2013", 
+    "start": "20130621000000", 
+    "mentions": [
+      {
+        "article": "16", 
+        "begin": 3864, 
+        "end": 3870, 
+        "id": 354
+      }, 
+      {
+        "article": "39", 
+        "begin": 2134, 
+        "end": 2145, 
+        "id": 1686
+      }, 
+      {
+        "article": "39", 
+        "begin": 2134, 
+        "end": 2145, 
+        "id": 1687
+      }
+    ], 
+    "label": "summer of 2013"
+  }, 
+  {
+    "finish": "20130331235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-03\">March</TIMEX3>", 
+    "normalized_ner": "2013-03", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "march 2013", 
+    "start": "20130301000000", 
+    "mentions": [
+      {
+        "article": "16", 
+        "begin": 2051, 
+        "end": 2056, 
+        "id": 375
+      }, 
+      {
+        "article": "16", 
+        "begin": 2051, 
+        "end": 2056, 
+        "id": 376
+      }, 
+      {
+        "article": "16", 
+        "begin": 2051, 
+        "end": 2056, 
+        "id": 377
+      }
+    ], 
+    "label": "March 2013"
+  }, 
+  {
+    "finish": "20130120235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W03\">This week</TIMEX3>", 
+    "normalized_ner": "2013-W03", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 03 of 2013", 
+    "start": "20130114000000", 
+    "mentions": [
+      {
+        "article": "16", 
+        "begin": 1241, 
+        "end": 1250, 
+        "id": 383
+      }
+    ], 
+    "label": "Week 03 of 2013"
+  }, 
+  {
+    "finish": "20130301235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2013-03-01\">March 1</TIMEX3>", 
+    "normalized_ner": "2013-03-01", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1 march 2013", 
+    "start": "20130301000000", 
+    "mentions": [
+      {
+        "article": "16", 
+        "begin": 1294, 
+        "end": 1301, 
+        "id": 383
+      }, 
+      {
+        "article": "16", 
+        "begin": 1294, 
+        "end": 1301, 
+        "id": 384
+      }, 
+      {
+        "article": "16", 
+        "begin": 1294, 
+        "end": 1301, 
+        "id": 385
+      }
+    ], 
+    "label": "1 March 2013"
+  }, 
+  {
+    "finish": "20120923235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-SU\">last summer</TIMEX3>", 
+    "normalized_ner": "2012-SU", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "summer of 2012", 
+    "start": "20120621000000", 
+    "mentions": [
+      {
+        "article": "16", 
+        "begin": 1228, 
+        "end": 1239, 
+        "id": 386
+      }, 
+      {
+        "article": "16", 
+        "begin": 1228, 
+        "end": 1239, 
+        "id": 387
+      }, 
+      {
+        "article": "16", 
+        "begin": 1228, 
+        "end": 1239, 
+        "id": 388
+      }, 
+      {
+        "article": "17", 
+        "begin": 3400, 
+        "end": 3411, 
+        "id": 409
+      }, 
+      {
+        "article": "17", 
+        "begin": 346, 
+        "end": 357, 
+        "id": 447
+      }, 
+      {
+        "article": "17", 
+        "begin": 346, 
+        "end": 357, 
+        "id": 448
+      }, 
+      {
+        "article": "17", 
+        "begin": 346, 
+        "end": 357, 
+        "id": 449
+      }, 
+      {
+        "article": "19", 
+        "begin": 2219, 
+        "end": 2230, 
+        "id": 515
+      }, 
+      {
+        "article": "19", 
+        "begin": 2219, 
+        "end": 2230, 
+        "id": 516
+      }, 
+      {
+        "article": "19", 
+        "begin": 2219, 
+        "end": 2230, 
+        "id": 517
+      }, 
+      {
+        "article": "19", 
+        "begin": 2219, 
+        "end": 2230, 
+        "id": 519
+      }, 
+      {
+        "article": "2", 
+        "begin": 2017, 
+        "end": 2028, 
+        "id": 562
+      }, 
+      {
+        "article": "2", 
+        "begin": 1557, 
+        "end": 1568, 
+        "id": 567
+      }, 
+      {
+        "article": "20", 
+        "begin": 1653, 
+        "end": 1664, 
+        "id": 637
+      }, 
+      {
+        "article": "20", 
+        "begin": 379, 
+        "end": 390, 
+        "id": 659
+      }, 
+      {
+        "article": "20", 
+        "begin": 379, 
+        "end": 390, 
+        "id": 660
+      }, 
+      {
+        "article": "20", 
+        "begin": 379, 
+        "end": 390, 
+        "id": 661
+      }, 
+      {
+        "article": "20", 
+        "begin": 379, 
+        "end": 390, 
+        "id": 662
+      }, 
+      {
+        "article": "34", 
+        "begin": 1872, 
+        "end": 1882, 
+        "id": 1469
+      }, 
+      {
+        "article": "34", 
+        "begin": 1886, 
+        "end": 1890, 
+        "id": 1469
+      }, 
+      {
+        "article": "34", 
+        "begin": 1872, 
+        "end": 1882, 
+        "id": 1470
+      }, 
+      {
+        "article": "34", 
+        "begin": 1886, 
+        "end": 1890, 
+        "id": 1470
+      }, 
+      {
+        "article": "9", 
+        "begin": 4017, 
+        "end": 4028, 
+        "id": 2186
+      }, 
+      {
+        "article": "9", 
+        "begin": 3672, 
+        "end": 3678, 
+        "id": 2190
+      }, 
+      {
+        "article": "9", 
+        "begin": 2299, 
+        "end": 2305, 
+        "id": 2195
+      }, 
+      {
+        "article": "9", 
+        "begin": 1456, 
+        "end": 1462, 
+        "id": 2205
+      }, 
+      {
+        "article": "9", 
+        "begin": 695, 
+        "end": 701, 
+        "id": 2213
+      }
+    ], 
+    "label": "summer of 2012"
+  }, 
+  {
+    "finish": "20130930235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-09\">September</TIMEX3>", 
+    "normalized_ner": "2013-09", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "september 2013", 
+    "start": "20130901000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 3568, 
+        "end": 3577, 
+        "id": 407
+      }
+    ], 
+    "label": "September 2013"
+  }, 
+  {
+    "finish": "19831231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1983\">1983</TIMEX3>", 
+    "normalized_ner": "1983", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1983", 
+    "start": "19830101000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 2872, 
+        "end": 2876, 
+        "id": 414
+      }, 
+      {
+        "article": "17", 
+        "begin": 2872, 
+        "end": 2876, 
+        "id": 416
+      }
+    ], 
+    "label": "1983"
+  }, 
+  {
+    "finish": "20130106235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W01-WE\">the weekend</TIMEX3>", 
+    "normalized_ner": "2013-W01-WE", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 01 of 2013", 
+    "start": "20121231000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 2636, 
+        "end": 2647, 
+        "id": 417
+      }
+    ], 
+    "label": "Week 01 of 2013"
+  }, 
+  {
+    "finish": "20130105235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-05\">Saturday</TIMEX3>", 
+    "normalized_ner": "2013-01-05", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "5 january 2013", 
+    "start": "20130105000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 2621, 
+        "end": 2629, 
+        "id": 418
+      }
+    ], 
+    "label": "5 January 2013"
+  }, 
+  {
+    "finish": "20130103235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2013-01-03\">Thursday</TIMEX3>", 
+    "normalized_ner": "2013-01-03", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "3 january 2013", 
+    "start": "20130103000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 2328, 
+        "end": 2336, 
+        "id": 423
+      }, 
+      {
+        "article": "17", 
+        "begin": 2328, 
+        "end": 2336, 
+        "id": 424
+      }
+    ], 
+    "label": "3 January 2013"
+  }, 
+  {
+    "finish": "20130102015959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2013-01-02T01:59\">one of two</TIMEX3>", 
+    "normalized_ner": "2013-01-02T01:59", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "2 january 2013 at 01:59", 
+    "start": "20130102015900", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 2016, 
+        "end": 2019, 
+        "id": 424
+      }, 
+      {
+        "article": "17", 
+        "begin": 2023, 
+        "end": 2026, 
+        "id": 424
+      }
+    ], 
+    "label": "2 January 2013 at 01:59"
+  }, 
+  {
+    "finish": "20130102235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-02\">several hours later</TIMEX3>", 
+    "normalized_ner": "2013-01-02", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2 january 2013", 
+    "start": "20130102000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 1745, 
+        "end": 1764, 
+        "id": 430
+      }, 
+      {
+        "article": "17", 
+        "begin": 0, 
+        "end": 103, 
+        "id": 450
+      }
+    ], 
+    "label": "2 January 2013"
+  }, 
+  {
+    "finish": "20121231125959", 
+    "timex": "<TIMEX3 mod=\"LATE\" tid=\"t1\" type=\"TIME\" value=\"2012-12-31TAF\">late Monday afternoon</TIMEX3>", 
+    "normalized_ner": "2012-12-31TAF", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "afternoon of 31 december 2012", 
+    "start": "20121231060000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 1657, 
+        "end": 1678, 
+        "id": 431
+      }
+    ], 
+    "label": "afternoon of 31 December 2012"
+  }, 
+  {
+    "finish": "20121231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-12-31\">Earlier Monday</TIMEX3>", 
+    "normalized_ner": "2012-12-31", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "31 december 2012", 
+    "start": "20121231000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 1436, 
+        "end": 1450, 
+        "id": 434
+      }, 
+      {
+        "article": "34", 
+        "begin": 982, 
+        "end": 993, 
+        "id": 1477
+      }
+    ], 
+    "label": "31 December 2012"
+  }, 
+  {
+    "finish": "20130101235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-01\">daybreak on Tuesday</TIMEX3>", 
+    "normalized_ner": "2013-01-01", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1 january 2013", 
+    "start": "20130101000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 867, 
+        "end": 875, 
+        "id": 441
+      }, 
+      {
+        "article": "17", 
+        "begin": 879, 
+        "end": 886, 
+        "id": 441
+      }, 
+      {
+        "article": "17", 
+        "begin": 867, 
+        "end": 875, 
+        "id": 442
+      }, 
+      {
+        "article": "17", 
+        "begin": 879, 
+        "end": 886, 
+        "id": 442
+      }
+    ], 
+    "label": "1 January 2013"
+  }, 
+  {
+    "finish": "20121227235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-12-27\">last Thursday</TIMEX3>", 
+    "normalized_ner": "2012-12-27", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "27 december 2012", 
+    "start": "20121227000000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 793, 
+        "end": 806, 
+        "id": 443
+      }, 
+      {
+        "article": "17", 
+        "begin": 793, 
+        "end": 806, 
+        "id": 444
+      }, 
+      {
+        "article": "17", 
+        "begin": 793, 
+        "end": 806, 
+        "id": 445
+      }, 
+      {
+        "article": "17", 
+        "begin": 793, 
+        "end": 806, 
+        "id": 446
+      }
+    ], 
+    "label": "27 December 2012"
+  }, 
+  {
+    "finish": "20130102204859", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2013-01-02T20:48\">8:48 p.m.</TIMEX3>", 
+    "normalized_ner": "2013-01-02T20:48", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "2 january 2013 at 20:48", 
+    "start": "20130102204800", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 553, 
+        "end": 562, 
+        "id": 446
+      }
+    ], 
+    "label": "2 January 2013 at 20:48"
+  }, 
+  {
+    "finish": "20121231005959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"TIME\" value=\"2012-12-31TNI\">Monday night</TIMEX3>", 
+    "normalized_ner": "2012-12-31TNI", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "night of 31 december 2012", 
+    "start": "20121231180000", 
+    "mentions": [
+      {
+        "article": "17", 
+        "begin": 199, 
+        "end": 211, 
+        "id": 450
+      }, 
+      {
+        "article": "17", 
+        "begin": 199, 
+        "end": 211, 
+        "id": 451
+      }
+    ], 
+    "label": "night of 31 December 2012"
+  }, 
+  {
+    "finish": "20111231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2011\">2011</TIMEX3>", 
+    "normalized_ner": "2011", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2011", 
+    "start": "20110101000000", 
+    "mentions": [
+      {
+        "article": "18", 
+        "begin": 2671, 
+        "end": 2675, 
+        "id": 470
+      }, 
+      {
+        "article": "18", 
+        "begin": 2671, 
+        "end": 2675, 
+        "id": 471
+      }, 
+      {
+        "article": "23", 
+        "begin": 3791, 
+        "end": 3800, 
+        "id": 743
+      }, 
+      {
+        "article": "25", 
+        "begin": 5821, 
+        "end": 5830, 
+        "id": 907
+      }, 
+      {
+        "article": "25", 
+        "begin": 5821, 
+        "end": 5830, 
+        "id": 908
+      }, 
+      {
+        "article": "25", 
+        "begin": 4979, 
+        "end": 4988, 
+        "id": 919
+      }, 
+      {
+        "article": "25", 
+        "begin": 4979, 
+        "end": 4988, 
+        "id": 921
+      }, 
+      {
+        "article": "25", 
+        "begin": 4979, 
+        "end": 4988, 
+        "id": 922
+      }, 
+      {
+        "article": "30", 
+        "begin": 2533, 
+        "end": 2537, 
+        "id": 1220
+      }, 
+      {
+        "article": "30", 
+        "begin": 2533, 
+        "end": 2537, 
+        "id": 1221
+      }, 
+      {
+        "article": "30", 
+        "begin": 2533, 
+        "end": 2537, 
+        "id": 1222
+      }, 
+      {
+        "article": "30", 
+        "begin": 2533, 
+        "end": 2537, 
+        "id": 1223
+      }, 
+      {
+        "article": "30", 
+        "begin": 2533, 
+        "end": 2537, 
+        "id": 1224
+      }, 
+      {
+        "article": "30", 
+        "begin": 1777, 
+        "end": 1781, 
+        "id": 1231
+      }, 
+      {
+        "article": "30", 
+        "begin": 1777, 
+        "end": 1781, 
+        "id": 1232
+      }, 
+      {
+        "article": "30", 
+        "begin": 1777, 
+        "end": 1781, 
+        "id": 1233
+      }, 
+      {
+        "article": "31", 
+        "begin": 5181, 
+        "end": 5185, 
+        "id": 1309
+      }, 
+      {
+        "article": "31", 
+        "begin": 4647, 
+        "end": 4651, 
+        "id": 1311
+      }, 
+      {
+        "article": "34", 
+        "begin": 2953, 
+        "end": 2957, 
+        "id": 1460
+      }, 
+      {
+        "article": "35", 
+        "begin": 2604, 
+        "end": 2608, 
+        "id": 1502
+      }, 
+      {
+        "article": "35", 
+        "begin": 2604, 
+        "end": 2608, 
+        "id": 1503
+      }, 
+      {
+        "article": "35", 
+        "begin": 2161, 
+        "end": 2165, 
+        "id": 1509
+      }, 
+      {
+        "article": "35", 
+        "begin": 2161, 
+        "end": 2165, 
+        "id": 1510
+      }, 
+      {
+        "article": "40", 
+        "begin": 5525, 
+        "end": 5542, 
+        "id": 1747
+      }, 
+      {
+        "article": "6", 
+        "begin": 536, 
+        "end": 545, 
+        "id": 2108
+      }, 
+      {
+        "article": "6", 
+        "begin": 536, 
+        "end": 545, 
+        "id": 2109
+      }
+    ], 
+    "label": "2011"
+  }, 
+  {
+    "finish": "20121231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-12\">December</TIMEX3>", 
+    "normalized_ner": "2012-12", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "december 2012", 
+    "start": "20121201000000", 
+    "mentions": [
+      {
+        "article": "18", 
+        "begin": 2148, 
+        "end": 2156, 
+        "id": 476
+      }, 
+      {
+        "article": "27", 
+        "begin": 1895, 
+        "end": 1903, 
+        "id": 1075
+      }, 
+      {
+        "article": "5", 
+        "begin": 452, 
+        "end": 459, 
+        "id": 2100
+      }, 
+      {
+        "article": "5", 
+        "begin": 463, 
+        "end": 471, 
+        "id": 2100
+      }
+    ], 
+    "label": "December 2012"
+  }, 
+  {
+    "finish": "20130124235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-24\">Thursday</TIMEX3>", 
+    "normalized_ner": "2013-01-24", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "24 january 2013", 
+    "start": "20130124000000", 
+    "mentions": [
+      {
+        "article": "18", 
+        "begin": 356, 
+        "end": 364, 
+        "id": 494
+      }
+    ], 
+    "label": "24 January 2013"
+  }, 
+  {
+    "finish": "20161231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2016\">2016</TIMEX3>", 
+    "normalized_ner": "2016", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2016", 
+    "start": "20160101000000", 
+    "mentions": [
+      {
+        "article": "19", 
+        "begin": 2371, 
+        "end": 2375, 
+        "id": 512
+      }, 
+      {
+        "article": "19", 
+        "begin": 2371, 
+        "end": 2375, 
+        "id": 514
+      }
+    ], 
+    "label": "2016"
+  }, 
+  {
+    "finish": "20171231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2017\">2017</TIMEX3>", 
+    "normalized_ner": "2017", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2017", 
+    "start": "20170101000000", 
+    "mentions": [
+      {
+        "article": "19", 
+        "begin": 2380, 
+        "end": 2384, 
+        "id": 512
+      }, 
+      {
+        "article": "19", 
+        "begin": 2380, 
+        "end": 2384, 
+        "id": 514
+      }
+    ], 
+    "label": "2017"
+  }, 
+  {
+    "finish": "20120624235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W26\">this week</TIMEX3>", 
+    "normalized_ner": "2012-W26", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 26 of 2012", 
+    "start": "20120618000000", 
+    "mentions": [
+      {
+        "article": "19", 
+        "begin": 2084, 
+        "end": 2093, 
+        "id": 517
+      }, 
+      {
+        "article": "19", 
+        "begin": 2084, 
+        "end": 2093, 
+        "id": 518
+      }, 
+      {
+        "article": "19", 
+        "begin": 2084, 
+        "end": 2093, 
+        "id": 519
+      }
+    ], 
+    "label": "Week 26 of 2012"
+  }, 
+  {
+    "finish": "20120626235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-06-26\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-06-26", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "26 june 2012", 
+    "start": "20120626000000", 
+    "mentions": [
+      {
+        "article": "19", 
+        "begin": 1766, 
+        "end": 1773, 
+        "id": 523
+      }, 
+      {
+        "article": "19", 
+        "begin": 166, 
+        "end": 173, 
+        "id": 546
+      }
+    ], 
+    "label": "26 June 2012"
+  }, 
+  {
+    "finish": "20120824125959", 
+    "timex": "<TIMEX3 mod=\"LATE\" tid=\"t1\" type=\"TIME\" value=\"2012-08-24TAF\">late Friday afternoon</TIMEX3>", 
+    "normalized_ner": "2012-08-24TAF", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "afternoon of 24 august 2012", 
+    "start": "20120824060000", 
+    "mentions": [
+      {
+        "article": "2", 
+        "begin": 3267, 
+        "end": 3288, 
+        "id": 548
+      }
+    ], 
+    "label": "afternoon of 24 August 2012"
+  }, 
+  {
+    "finish": "20100825235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2010-08-25\">two years ago</TIMEX3>", 
+    "normalized_ner": "2010-08-25", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "25 august 2010", 
+    "start": "20100825000000", 
+    "mentions": [
+      {
+        "article": "2", 
+        "begin": 3222, 
+        "end": 3235, 
+        "id": 549
+      }, 
+      {
+        "article": "2", 
+        "begin": 3222, 
+        "end": 3235, 
+        "id": 550
+      }
+    ], 
+    "label": "25 August 2010"
+  }, 
+  {
+    "finish": "20120824235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-08-24\">Friday</TIMEX3>", 
+    "normalized_ner": "2012-08-24", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "24 august 2012", 
+    "start": "20120824000000", 
+    "mentions": [
+      {
+        "article": "2", 
+        "begin": 2568, 
+        "end": 2574, 
+        "id": 557
+      }, 
+      {
+        "article": "2", 
+        "begin": 239, 
+        "end": 245, 
+        "id": 588
+      }, 
+      {
+        "article": "39", 
+        "begin": 906, 
+        "end": 913, 
+        "id": 1703
+      }, 
+      {
+        "article": "39", 
+        "begin": 906, 
+        "end": 913, 
+        "id": 1704
+      }, 
+      {
+        "article": "39", 
+        "begin": 906, 
+        "end": 913, 
+        "id": 1705
+      }, 
+      {
+        "article": "39", 
+        "begin": 232, 
+        "end": 253, 
+        "id": 1714
+      }
+    ], 
+    "label": "24 August 2012"
+  }, 
+  {
+    "finish": "20120825235959", 
+    "timex": "<TIMEX3 mod=\"EARLY\" tid=\"t1\" type=\"DATE\" value=\"2012-08-25\">Sunrise</TIMEX3>", 
+    "normalized_ner": "2012-08-25", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "25 august 2012", 
+    "start": "20120825000000", 
+    "mentions": [
+      {
+        "article": "2", 
+        "begin": 542, 
+        "end": 549, 
+        "id": 581
+      }, 
+      {
+        "article": "2", 
+        "begin": 542, 
+        "end": 549, 
+        "id": 582
+      }
+    ], 
+    "label": "25 August 2012"
+  }, 
+  {
+    "finish": "20071231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2007\">2007</TIMEX3>", 
+    "normalized_ner": "2007", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2007", 
+    "start": "20070101000000", 
+    "mentions": [
+      {
+        "article": "20", 
+        "begin": 4682, 
+        "end": 4686, 
+        "id": 601
+      }, 
+      {
+        "article": "9", 
+        "begin": 2080, 
+        "end": 2084, 
+        "id": 2198
+      }, 
+      {
+        "article": "9", 
+        "begin": 2080, 
+        "end": 2084, 
+        "id": 2199
+      }, 
+      {
+        "article": "9", 
+        "begin": 2080, 
+        "end": 2084, 
+        "id": 2200
+      }, 
+      {
+        "article": "9", 
+        "begin": 589, 
+        "end": 593, 
+        "id": 2215
+      }
+    ], 
+    "label": "2007"
+  }, 
+  {
+    "finish": "20120304235959", 
+    "timex": "<TIMEX3 tid=\"t4\" type=\"TIME\" value=\"2012-03-04TXX\">the last minute</TIMEX3>", 
+    "normalized_ner": "2012-03-04TXX", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "4 march 2012", 
+    "start": "20120304000000", 
+    "mentions": [
+      {
+        "article": "20", 
+        "begin": 4306, 
+        "end": 4321, 
+        "id": 606
+      }, 
+      {
+        "article": "20", 
+        "begin": 4306, 
+        "end": 4321, 
+        "id": 607
+      }, 
+      {
+        "article": "20", 
+        "begin": 4306, 
+        "end": 4321, 
+        "id": 608
+      }, 
+      {
+        "article": "20", 
+        "begin": 4306, 
+        "end": 4321, 
+        "id": 609
+      }, 
+      {
+        "article": "20", 
+        "begin": 4306, 
+        "end": 4321, 
+        "id": 610
+      }
+    ], 
+    "label": "4 March 2012"
+  }, 
+  {
+    "finish": "20071231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2000\">2000</TIMEX3>", 
+    "normalized_ner": "2000/2007", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2000-2007", 
+    "start": "20000101000000", 
+    "mentions": [
+      {
+        "article": "20", 
+        "begin": 4100, 
+        "end": 4104, 
+        "id": 610
+      }, 
+      {
+        "article": "20", 
+        "begin": 4108, 
+        "end": 4112, 
+        "id": 610
+      }
+    ], 
+    "label": "2000-2007"
+  }, 
+  {
+    "finish": "20021231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2002\">2002</TIMEX3>", 
+    "normalized_ner": "2002", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2002", 
+    "start": "20020101000000", 
+    "mentions": [
+      {
+        "article": "20", 
+        "begin": 3472, 
+        "end": 3476, 
+        "id": 613
+      }
+    ], 
+    "label": "2002"
+  }, 
+  {
+    "finish": "20120220235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-02-20\">two weeks ago</TIMEX3>", 
+    "normalized_ner": "2012-02-20", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "20 february 2012", 
+    "start": "20120220000000", 
+    "mentions": [
+      {
+        "article": "20", 
+        "begin": 2409, 
+        "end": 2422, 
+        "id": 628
+      }, 
+      {
+        "article": "20", 
+        "begin": 2409, 
+        "end": 2422, 
+        "id": 629
+      }, 
+      {
+        "article": "20", 
+        "begin": 2409, 
+        "end": 2422, 
+        "id": 630
+      }, 
+      {
+        "article": "20", 
+        "begin": 2409, 
+        "end": 2422, 
+        "id": 631
+      }, 
+      {
+        "article": "20", 
+        "begin": 2409, 
+        "end": 2422, 
+        "id": 632
+      }
+    ], 
+    "label": "20 February 2012"
+  }, 
+  {
+    "finish": "20120226235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-W09\">last week</TIMEX3>", 
+    "normalized_ner": "2012-W09", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 09 of 2012", 
+    "start": "20120220000000", 
+    "mentions": [
+      {
+        "article": "20", 
+        "begin": 167, 
+        "end": 176, 
+        "id": 662
+      }
+    ], 
+    "label": "Week 09 of 2012"
+  }, 
+  {
+    "finish": "20121030235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-10-30\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-10-30", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "30 october 2012", 
+    "start": "20121030000000", 
+    "mentions": [
+      {
+        "article": "21", 
+        "begin": 904, 
+        "end": 911, 
+        "id": 705
+      }
+    ], 
+    "label": "30 October 2012"
+  }, 
+  {
+    "finish": "20120619235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-06-19\">2012/06/19</TIMEX3>", 
+    "normalized_ner": "2012-06-19", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "19 june 2012", 
+    "start": "20120619000000", 
+    "mentions": [
+      {
+        "article": "22", 
+        "begin": 0, 
+        "end": 70, 
+        "id": 737
+      }
+    ], 
+    "label": "19 June 2012"
+  }, 
+  {
+    "finish": "20091231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2009\">2009</TIMEX3>", 
+    "normalized_ner": "2009", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2009", 
+    "start": "20090101000000", 
+    "mentions": [
+      {
+        "article": "23", 
+        "begin": 3901, 
+        "end": 3905, 
+        "id": 740
+      }, 
+      {
+        "article": "23", 
+        "begin": 3901, 
+        "end": 3905, 
+        "id": 741
+      }, 
+      {
+        "article": "23", 
+        "begin": 3901, 
+        "end": 3905, 
+        "id": 742
+      }, 
+      {
+        "article": "23", 
+        "begin": 3901, 
+        "end": 3905, 
+        "id": 743
+      }, 
+      {
+        "article": "32", 
+        "begin": 2326, 
+        "end": 2330, 
+        "id": 1378
+      }, 
+      {
+        "article": "32", 
+        "begin": 2326, 
+        "end": 2330, 
+        "id": 1379
+      }, 
+      {
+        "article": "35", 
+        "begin": 966, 
+        "end": 970, 
+        "id": 1521
+      }, 
+      {
+        "article": "35", 
+        "begin": 966, 
+        "end": 970, 
+        "id": 1522
+      }, 
+      {
+        "article": "35", 
+        "begin": 966, 
+        "end": 970, 
+        "id": 1523
+      }, 
+      {
+        "article": "37", 
+        "begin": 421, 
+        "end": 425, 
+        "id": 1636
+      }, 
+      {
+        "article": "37", 
+        "begin": 421, 
+        "end": 425, 
+        "id": 1637
+      }
+    ], 
+    "label": "2009"
+  }, 
+  {
+    "finish": "19911231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"1991\">1991</TIMEX3>", 
+    "normalized_ner": "1991", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1991", 
+    "start": "19910101000000", 
+    "mentions": [
+      {
+        "article": "23", 
+        "begin": 2973, 
+        "end": 2977, 
+        "id": 754
+      }, 
+      {
+        "article": "23", 
+        "begin": 2973, 
+        "end": 2977, 
+        "id": 755
+      }, 
+      {
+        "article": "23", 
+        "begin": 2973, 
+        "end": 2977, 
+        "id": 756
+      }, 
+      {
+        "article": "23", 
+        "begin": 2973, 
+        "end": 2977, 
+        "id": 757
+      }, 
+      {
+        "article": "23", 
+        "begin": 2973, 
+        "end": 2977, 
+        "id": 758
+      }
+    ], 
+    "label": "1991"
+  }, 
+  {
+    "finish": "19920807235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1992-08-07\">more than two decades ago</TIMEX3>", 
+    "normalized_ner": "1992-08-07", 
+    "pos": "IN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "7 august 1992", 
+    "start": "19920807000000", 
+    "mentions": [
+      {
+        "article": "23", 
+        "begin": 2032, 
+        "end": 2057, 
+        "id": 766
+      }, 
+      {
+        "article": "23", 
+        "begin": 2032, 
+        "end": 2057, 
+        "id": 768
+      }
+    ], 
+    "label": "7 August 1992"
+  }, 
+  {
+    "finish": "19961231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1996\">1996</TIMEX3>", 
+    "normalized_ner": "1996", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1996", 
+    "start": "19960101000000", 
+    "mentions": [
+      {
+        "article": "23", 
+        "begin": 1437, 
+        "end": 1441, 
+        "id": 772
+      }, 
+      {
+        "article": "23", 
+        "begin": 1437, 
+        "end": 1441, 
+        "id": 773
+      }, 
+      {
+        "article": "44", 
+        "begin": 2856, 
+        "end": 2860, 
+        "id": 1921
+      }
+    ], 
+    "label": "1996"
+  }, 
+  {
+    "finish": "20120807050059", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-08-07T05:00\">5 a.m.</TIMEX3>", 
+    "normalized_ner": "2012-08-07T05:00", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "7 august 2012 at 05:00", 
+    "start": "20120807050000", 
+    "mentions": [
+      {
+        "article": "23", 
+        "begin": 347, 
+        "end": 353, 
+        "id": 783
+      }, 
+      {
+        "article": "23", 
+        "begin": 360, 
+        "end": 373, 
+        "id": 783
+      }, 
+      {
+        "article": "23", 
+        "begin": 347, 
+        "end": 353, 
+        "id": 784
+      }, 
+      {
+        "article": "23", 
+        "begin": 360, 
+        "end": 373, 
+        "id": 784
+      }, 
+      {
+        "article": "23", 
+        "begin": 347, 
+        "end": 353, 
+        "id": 785
+      }, 
+      {
+        "article": "23", 
+        "begin": 360, 
+        "end": 373, 
+        "id": 785
+      }
+    ], 
+    "label": "7 August 2012 at 05:00"
+  }, 
+  {
+    "finish": "20120509235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-05-09\">May 9, 2012</TIMEX3>", 
+    "normalized_ner": "2012-05-09", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "9 may 2012", 
+    "start": "20120509000000", 
+    "mentions": [
+      {
+        "article": "24", 
+        "begin": 6939, 
+        "end": 6944, 
+        "id": 788
+      }, 
+      {
+        "article": "24", 
+        "begin": 6946, 
+        "end": 6950, 
+        "id": 788
+      }, 
+      {
+        "article": "24", 
+        "begin": 6939, 
+        "end": 6944, 
+        "id": 789
+      }, 
+      {
+        "article": "24", 
+        "begin": 6946, 
+        "end": 6950, 
+        "id": 789
+      }
+    ], 
+    "label": "9 May 2012"
+  }, 
+  {
+    "finish": "20120508085859", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-05-08T08:58\">two of nine</TIMEX3>", 
+    "normalized_ner": "2012-05-08T08:58", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "8 may 2012 at 08:58", 
+    "start": "20120508085800", 
+    "mentions": [
+      {
+        "article": "24", 
+        "begin": 5166, 
+        "end": 5169, 
+        "id": 809
+      }, 
+      {
+        "article": "24", 
+        "begin": 5173, 
+        "end": 5177, 
+        "id": 809
+      }, 
+      {
+        "article": "24", 
+        "begin": 5166, 
+        "end": 5169, 
+        "id": 810
+      }, 
+      {
+        "article": "24", 
+        "begin": 5173, 
+        "end": 5177, 
+        "id": 810
+      }, 
+      {
+        "article": "24", 
+        "begin": 5166, 
+        "end": 5169, 
+        "id": 811
+      }, 
+      {
+        "article": "24", 
+        "begin": 5173, 
+        "end": 5177, 
+        "id": 811
+      }, 
+      {
+        "article": "24", 
+        "begin": 2795, 
+        "end": 2798, 
+        "id": 846
+      }, 
+      {
+        "article": "24", 
+        "begin": 2802, 
+        "end": 2806, 
+        "id": 846
+      }, 
+      {
+        "article": "24", 
+        "begin": 2795, 
+        "end": 2798, 
+        "id": 847
+      }, 
+      {
+        "article": "24", 
+        "begin": 2802, 
+        "end": 2806, 
+        "id": 847
+      }
+    ], 
+    "label": "8 May 2012 at 08:58"
+  }, 
+  {
+    "finish": "20120508055559", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-05-08T05:55\">five of six</TIMEX3>", 
+    "normalized_ner": "2012-05-08T05:55", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "8 may 2012 at 05:55", 
+    "start": "20120508055500", 
+    "mentions": [
+      {
+        "article": "24", 
+        "begin": 3237, 
+        "end": 3241, 
+        "id": 841
+      }, 
+      {
+        "article": "24", 
+        "begin": 3245, 
+        "end": 3248, 
+        "id": 841
+      }, 
+      {
+        "article": "24", 
+        "begin": 3237, 
+        "end": 3241, 
+        "id": 842
+      }, 
+      {
+        "article": "24", 
+        "begin": 3245, 
+        "end": 3248, 
+        "id": 842
+      }, 
+      {
+        "article": "24", 
+        "begin": 3237, 
+        "end": 3241, 
+        "id": 843
+      }, 
+      {
+        "article": "24", 
+        "begin": 3245, 
+        "end": 3248, 
+        "id": 843
+      }
+    ], 
+    "label": "8 May 2012 at 05:55"
+  }, 
+  {
+    "finish": "20120215235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-02-15\">Feb. 15</TIMEX3>", 
+    "normalized_ner": "2012-02-15", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "15 february 2012", 
+    "start": "20120215000000", 
+    "mentions": [
+      {
+        "article": "24", 
+        "begin": 1567, 
+        "end": 1574, 
+        "id": 860
+      }
+    ], 
+    "label": "15 February 2012"
+  }, 
+  {
+    "finish": "20121031235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-10\">October</TIMEX3>", 
+    "normalized_ner": "2012-10", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "october 2012", 
+    "start": "20121001000000", 
+    "mentions": [
+      {
+        "article": "24", 
+        "begin": 1218, 
+        "end": 1225, 
+        "id": 865
+      }, 
+      {
+        "article": "27", 
+        "begin": 731, 
+        "end": 738, 
+        "id": 1095
+      }, 
+      {
+        "article": "31", 
+        "begin": 7327, 
+        "end": 7334, 
+        "id": 1289
+      }, 
+      {
+        "article": "31", 
+        "begin": 7327, 
+        "end": 7334, 
+        "id": 1290
+      }, 
+      {
+        "article": "33", 
+        "begin": 829, 
+        "end": 836, 
+        "id": 1441
+      }, 
+      {
+        "article": "33", 
+        "begin": 829, 
+        "end": 836, 
+        "id": 1442
+      }
+    ], 
+    "label": "October 2012"
+  }, 
+  {
+    "finish": "20120508235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-05-08\">2012/05/08</TIMEX3>", 
+    "normalized_ner": "2012-05-08", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "8 may 2012", 
+    "start": "20120508000000", 
+    "mentions": [
+      {
+        "article": "24", 
+        "begin": 0, 
+        "end": 102, 
+        "id": 880
+      }
+    ], 
+    "label": "8 May 2012"
+  }, 
+  {
+    "finish": "20120309235959", 
+    "timex": "<TIMEX3 mod=\"LATE\" tid=\"t1\" type=\"DATE\" value=\"2012-03-09\">the end of the day</TIMEX3>", 
+    "normalized_ner": "2012-03-09", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "9 march 2012", 
+    "start": "20120309000000", 
+    "mentions": [
+      {
+        "article": "25", 
+        "begin": 2411, 
+        "end": 2418, 
+        "id": 940
+      }, 
+      {
+        "article": "25", 
+        "begin": 2422, 
+        "end": 2429, 
+        "id": 940
+      }, 
+      {
+        "article": "25", 
+        "begin": 2411, 
+        "end": 2418, 
+        "id": 941
+      }, 
+      {
+        "article": "25", 
+        "begin": 2422, 
+        "end": 2429, 
+        "id": 941
+      }, 
+      {
+        "article": "25", 
+        "begin": 0, 
+        "end": 114, 
+        "id": 971
+      }
+    ], 
+    "label": "9 March 2012"
+  }, 
+  {
+    "finish": "18991231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"1899\">1899</TIMEX3>", 
+    "normalized_ner": "1899", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1899", 
+    "start": "18990101000000", 
+    "mentions": [
+      {
+        "article": "25", 
+        "begin": 1458, 
+        "end": 1462, 
+        "id": 952
+      }, 
+      {
+        "article": "25", 
+        "begin": 1458, 
+        "end": 1462, 
+        "id": 953
+      }, 
+      {
+        "article": "25", 
+        "begin": 1458, 
+        "end": 1462, 
+        "id": 954
+      }
+    ], 
+    "label": "1899"
+  }, 
+  {
+    "finish": "20120304235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W10\">this week</TIMEX3>", 
+    "normalized_ner": "2012-W10", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 10 of 2012", 
+    "start": "20120227000000", 
+    "mentions": [
+      {
+        "article": "25", 
+        "begin": 699, 
+        "end": 708, 
+        "id": 960
+      }, 
+      {
+        "article": "25", 
+        "begin": 699, 
+        "end": 708, 
+        "id": 962
+      }, 
+      {
+        "article": "25", 
+        "begin": 699, 
+        "end": 708, 
+        "id": 963
+      }, 
+      {
+        "article": "25", 
+        "begin": 506, 
+        "end": 515, 
+        "id": 966
+      }, 
+      {
+        "article": "25", 
+        "begin": 164, 
+        "end": 173, 
+        "id": 971
+      }
+    ], 
+    "label": "Week 10 of 2012"
+  }, 
+  {
+    "finish": "20120310235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-03-10\">Saturday</TIMEX3>", 
+    "normalized_ner": "2012-03-10", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "10 march 2012", 
+    "start": "20120310000000", 
+    "mentions": [
+      {
+        "article": "25", 
+        "begin": 262, 
+        "end": 270, 
+        "id": 970
+      }
+    ], 
+    "label": "10 March 2012"
+  }, 
+  {
+    "finish": "20120309121359", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"TIME\" value=\"2012-03-09T12:13\">12:13 p.m</TIMEX3>", 
+    "normalized_ner": "2012-03-09T12:13", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "9 march 2012 at 12:13", 
+    "start": "20120309121300", 
+    "mentions": [
+      {
+        "article": "25", 
+        "begin": 273, 
+        "end": 282, 
+        "id": 970
+      }
+    ], 
+    "label": "9 March 2012 at 12:13"
+  }, 
+  {
+    "finish": "20121006235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-10-06\">Oct. 6</TIMEX3>", 
+    "normalized_ner": "2012-10-06", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "6 october 2012", 
+    "start": "20121006000000", 
+    "mentions": [
+      {
+        "article": "26", 
+        "begin": 4362, 
+        "end": 4368, 
+        "id": 972
+      }
+    ], 
+    "label": "6 October 2012"
+  }, 
+  {
+    "finish": "20120925063059", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"TIME\" value=\"2012-09-25T06:30\">6:30</TIMEX3>", 
+    "normalized_ner": "2012-09-25T06:30", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "25 september 2012 at 06:30", 
+    "start": "20120925063000", 
+    "mentions": [
+      {
+        "article": "26", 
+        "begin": 4328, 
+        "end": 4332, 
+        "id": 973
+      }, 
+      {
+        "article": "26", 
+        "begin": 4328, 
+        "end": 4332, 
+        "id": 974
+      }
+    ], 
+    "label": "25 September 2012 at 06:30"
+  }, 
+  {
+    "finish": "20120925185959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-09-25TEV\">Tuesday evening</TIMEX3>", 
+    "normalized_ner": "2012-09-25TEV", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "evening of 25 september 2012", 
+    "start": "20120925120000", 
+    "mentions": [
+      {
+        "article": "26", 
+        "begin": 4274, 
+        "end": 4289, 
+        "id": 974
+      }
+    ], 
+    "label": "evening of 25 September 2012"
+  }, 
+  {
+    "finish": "20120925235959", 
+    "timex": "<TIMEX3 mod=\"EARLY\" tid=\"t1\" type=\"DATE\" value=\"2012-09-25\">Sunrise</TIMEX3>", 
+    "normalized_ner": "2012-09-25", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "25 september 2012", 
+    "start": "20120925000000", 
+    "mentions": [
+      {
+        "article": "26", 
+        "begin": 3129, 
+        "end": 3136, 
+        "id": 990
+      }
+    ], 
+    "label": "25 September 2012"
+  }, 
+  {
+    "finish": "20120925005959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-09-25TNI\">nighttime</TIMEX3>", 
+    "normalized_ner": "2012-09-25TNI", 
+    "pos": "JJ", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "night of 25 september 2012", 
+    "start": "20120925180000", 
+    "mentions": [
+      {
+        "article": "26", 
+        "begin": 2456, 
+        "end": 2465, 
+        "id": 995
+      }
+    ], 
+    "label": "night of 25 September 2012"
+  }, 
+  {
+    "finish": "19301231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1930\">1930</TIMEX3>", 
+    "normalized_ner": "1930", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1930", 
+    "start": "19300101000000", 
+    "mentions": [
+      {
+        "article": "26", 
+        "begin": 2163, 
+        "end": 2167, 
+        "id": 997
+      }, 
+      {
+        "article": "26", 
+        "begin": 2163, 
+        "end": 2167, 
+        "id": 998
+      }
+    ], 
+    "label": "1930"
+  }, 
+  {
+    "finish": "20130428235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W17\">last week</TIMEX3>", 
+    "normalized_ner": "2013-W17", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 17 of 2013", 
+    "start": "20130422000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 6563, 
+        "end": 6572, 
+        "id": 1016
+      }
+    ], 
+    "label": "Week 17 of 2013"
+  }, 
+  {
+    "finish": "20130206235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02-06\">Feb. 6</TIMEX3>", 
+    "normalized_ner": "2013-02-06", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "6 february 2013", 
+    "start": "20130206000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 4160, 
+        "end": 4166, 
+        "id": 1047
+      }
+    ], 
+    "label": "6 February 2013"
+  }, 
+  {
+    "finish": "20130523235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-05-23\">less than three weeks later</TIMEX3>", 
+    "normalized_ner": "2013-05-23", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "23 may 2013", 
+    "start": "20130523000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 3424, 
+        "end": 3451, 
+        "id": 1056
+      }
+    ], 
+    "label": "23 May 2013"
+  }, 
+  {
+    "finish": "20130517235959", 
+    "timex": "<TIMEX3 tid=\"t3\" type=\"DATE\" value=\"2013-05-17\">May 17</TIMEX3>", 
+    "normalized_ner": "2013-05-17", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "17 may 2013", 
+    "start": "20130517000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 3627, 
+        "end": 3633, 
+        "id": 1056
+      }
+    ], 
+    "label": "17 May 2013"
+  }, 
+  {
+    "finish": "20130321235959", 
+    "timex": "<TIMEX3 tid=\"t3\" type=\"DATE\" value=\"2013-WI\">winter</TIMEX3>", 
+    "normalized_ner": "2013-WI", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "winter of 2013", 
+    "start": "20121223000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 2999, 
+        "end": 3005, 
+        "id": 1063
+      }, 
+      {
+        "article": "27", 
+        "begin": 2999, 
+        "end": 3005, 
+        "id": 1064
+      }, 
+      {
+        "article": "27", 
+        "begin": 2999, 
+        "end": 3005, 
+        "id": 1065
+      }, 
+      {
+        "article": "27", 
+        "begin": 493, 
+        "end": 499, 
+        "id": 1098
+      }, 
+      {
+        "article": "27", 
+        "begin": 493, 
+        "end": 499, 
+        "id": 1099
+      }
+    ], 
+    "label": "winter of 2013"
+  }, 
+  {
+    "finish": "20130104235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-04\">Jan. 4</TIMEX3>", 
+    "normalized_ner": "2013-01-04", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "4 january 2013", 
+    "start": "20130104000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 2760, 
+        "end": 2766, 
+        "id": 1065
+      }
+    ], 
+    "label": "4 January 2013"
+  }, 
+  {
+    "finish": "20130506235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-05-06\">four days later</TIMEX3>", 
+    "normalized_ner": "2013-05-06", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "6 may 2013", 
+    "start": "20130506000000", 
+    "mentions": [
+      {
+        "article": "27", 
+        "begin": 1096, 
+        "end": 1111, 
+        "id": 1089
+      }, 
+      {
+        "article": "27", 
+        "begin": 1096, 
+        "end": 1111, 
+        "id": 1090
+      }
+    ], 
+    "label": "6 May 2013"
+  }, 
+  {
+    "finish": "20110930235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2011-09\">last September</TIMEX3>", 
+    "normalized_ner": "2011-09", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "september 2011", 
+    "start": "20110901000000", 
+    "mentions": [
+      {
+        "article": "28", 
+        "begin": 3275, 
+        "end": 3289, 
+        "id": 1110
+      }, 
+      {
+        "article": "3", 
+        "begin": 4825, 
+        "end": 4834, 
+        "id": 1170
+      }
+    ], 
+    "label": "September 2011"
+  }, 
+  {
+    "finish": "20110331235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2011-03\">March 2011</TIMEX3>", 
+    "normalized_ner": "2011-03", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "march 2011", 
+    "start": "20110301000000", 
+    "mentions": [
+      {
+        "article": "28", 
+        "begin": 2766, 
+        "end": 2776, 
+        "id": 1118
+      }
+    ], 
+    "label": "March 2011"
+  }, 
+  {
+    "finish": "20120623235959", 
+    "timex": "<TIMEX3 tid=\"t3\" type=\"DATE\" value=\"2012-06-23\">this Saturday</TIMEX3>", 
+    "normalized_ner": "2012-06-23", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "23 june 2012", 
+    "start": "20120623000000", 
+    "mentions": [
+      {
+        "article": "28", 
+        "begin": 169, 
+        "end": 182, 
+        "id": 1142
+      }, 
+      {
+        "article": "28", 
+        "begin": 169, 
+        "end": 182, 
+        "id": 1143
+      }
+    ], 
+    "label": "23 June 2012"
+  }, 
+  {
+    "finish": "20121106235959", 
+    "timex": "<TIMEX3 tid=\"t3\" type=\"DATE\" value=\"2012-11-06\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-11-06", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "6 november 2012", 
+    "start": "20121106000000", 
+    "mentions": [
+      {
+        "article": "29", 
+        "begin": 917, 
+        "end": 924, 
+        "id": 1154
+      }, 
+      {
+        "article": "29", 
+        "begin": 917, 
+        "end": 924, 
+        "id": 1155
+      }, 
+      {
+        "article": "29", 
+        "begin": 917, 
+        "end": 924, 
+        "id": 1156
+      }, 
+      {
+        "article": "29", 
+        "begin": 0, 
+        "end": 74, 
+        "id": 1164
+      }
+    ], 
+    "label": "6 November 2012"
+  }, 
+  {
+    "finish": "20191231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"201X\">the last decade</TIMEX3>", 
+    "normalized_ner": "201X", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2010-2019", 
+    "start": "20100101000000", 
+    "mentions": [
+      {
+        "article": "3", 
+        "begin": 4512, 
+        "end": 4527, 
+        "id": 1174
+      }, 
+      {
+        "article": "3", 
+        "begin": 4512, 
+        "end": 4527, 
+        "id": 1175
+      }, 
+      {
+        "article": "31", 
+        "begin": 1221, 
+        "end": 1236, 
+        "id": 1348
+      }, 
+      {
+        "article": "45", 
+        "begin": 1892, 
+        "end": 1902, 
+        "id": 2043
+      }, 
+      {
+        "article": "45", 
+        "begin": 1905, 
+        "end": 1908, 
+        "id": 2043
+      }, 
+      {
+        "article": "7", 
+        "begin": 2643, 
+        "end": 2658, 
+        "id": 2119
+      }, 
+      {
+        "article": "7", 
+        "begin": 2643, 
+        "end": 2658, 
+        "id": 2120
+      }, 
+      {
+        "article": "7", 
+        "begin": 2643, 
+        "end": 2658, 
+        "id": 2122
+      }, 
+      {
+        "article": "7", 
+        "begin": 2643, 
+        "end": 2658, 
+        "id": 2123
+      }, 
+      {
+        "article": "7", 
+        "begin": 2643, 
+        "end": 2658, 
+        "id": 2124
+      }
+    ], 
+    "label": "2010-2019"
+  }, 
+  {
+    "finish": "20120418235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-04-18\">2012/04/18</TIMEX3>", 
+    "normalized_ner": "2012-04-18", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "18 april 2012", 
+    "start": "20120418000000", 
+    "mentions": [
+      {
+        "article": "3", 
+        "begin": 0, 
+        "end": 127, 
+        "id": 1213
+      }
+    ], 
+    "label": "18 April 2012"
+  }, 
+  {
+    "finish": "20120417235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-04-17\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-04-17", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "17 april 2012", 
+    "start": "20120417000000", 
+    "mentions": [
+      {
+        "article": "3", 
+        "begin": 416, 
+        "end": 423, 
+        "id": 1213
+      }
+    ], 
+    "label": "17 April 2012"
+  }, 
+  {
+    "finish": "20120412235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-04-12\">Thursday</TIMEX3>", 
+    "normalized_ner": "2012-04-12", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "12 april 2012", 
+    "start": "20120412000000", 
+    "mentions": [
+      {
+        "article": "30", 
+        "begin": 1021, 
+        "end": 1029, 
+        "id": 1239
+      }, 
+      {
+        "article": "30", 
+        "begin": 178, 
+        "end": 186, 
+        "id": 1251
+      }
+    ], 
+    "label": "12 April 2012"
+  }, 
+  {
+    "finish": "20130128235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2013-01-28\">Jan. 28</TIMEX3>", 
+    "normalized_ner": "2013-01-28", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "28 january 2013", 
+    "start": "20130128000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 10602, 
+        "end": 10609, 
+        "id": 1253
+      }, 
+      {
+        "article": "31", 
+        "begin": 10602, 
+        "end": 10609, 
+        "id": 1254
+      }
+    ], 
+    "label": "28 January 2013"
+  }, 
+  {
+    "finish": "20130131235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-31\">today</TIMEX3>", 
+    "normalized_ner": "2013-01-31", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "31 january 2013", 
+    "start": "20130131000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 10506, 
+        "end": 10511, 
+        "id": 1254
+      }, 
+      {
+        "article": "31", 
+        "begin": 10227, 
+        "end": 10251, 
+        "id": 1257
+      }, 
+      {
+        "article": "31", 
+        "begin": 9888, 
+        "end": 9893, 
+        "id": 1262
+      }, 
+      {
+        "article": "31", 
+        "begin": 0, 
+        "end": 96, 
+        "id": 1357
+      }
+    ], 
+    "label": "31 January 2013"
+  }, 
+  {
+    "finish": "20120131235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-01-31\">a year earlier</TIMEX3>", 
+    "normalized_ner": "2012-01-31", 
+    "pos": "RBR", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "31 january 2012", 
+    "start": "20120131000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 10311, 
+        "end": 10325, 
+        "id": 1257
+      }
+    ], 
+    "label": "31 January 2012"
+  }, 
+  {
+    "finish": "20130130235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-30\">yesterday</TIMEX3>", 
+    "normalized_ner": "2013-01-30", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "30 january 2013", 
+    "start": "20130130000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 9813, 
+        "end": 9822, 
+        "id": 1263
+      }, 
+      {
+        "article": "31", 
+        "begin": 9813, 
+        "end": 9822, 
+        "id": 1264
+      }, 
+      {
+        "article": "31", 
+        "begin": 8791, 
+        "end": 8800, 
+        "id": 1277
+      }, 
+      {
+        "article": "31", 
+        "begin": 4308, 
+        "end": 4317, 
+        "id": 1316
+      }, 
+      {
+        "article": "31", 
+        "begin": 1541, 
+        "end": 1550, 
+        "id": 1346
+      }, 
+      {
+        "article": "41", 
+        "begin": 1104, 
+        "end": 1109, 
+        "id": 1822
+      }, 
+      {
+        "article": "41", 
+        "begin": 0, 
+        "end": 107, 
+        "id": 1827
+      }, 
+      {
+        "article": "41", 
+        "begin": 181, 
+        "end": 196, 
+        "id": 1827
+      }, 
+      {
+        "article": "41", 
+        "begin": 275, 
+        "end": 280, 
+        "id": 1827
+      }, 
+      {
+        "article": "41", 
+        "begin": 275, 
+        "end": 280, 
+        "id": 1828
+      }, 
+      {
+        "article": "41", 
+        "begin": 275, 
+        "end": 280, 
+        "id": 1830
+      }, 
+      {
+        "article": "41", 
+        "begin": 0, 
+        "end": 107, 
+        "id": 1831
+      }, 
+      {
+        "article": "41", 
+        "begin": 181, 
+        "end": 196, 
+        "id": 1831
+      }, 
+      {
+        "article": "41", 
+        "begin": 275, 
+        "end": 280, 
+        "id": 1831
+      }
+    ], 
+    "label": "30 January 2013"
+  }, 
+  {
+    "finish": "20130221235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02-21\">Three weeks later</TIMEX3>", 
+    "normalized_ner": "2013-02-21", 
+    "pos": "RB", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "21 february 2013", 
+    "start": "20130221000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 9343, 
+        "end": 9360, 
+        "id": 1269
+      }
+    ], 
+    "label": "21 February 2013"
+  }, 
+  {
+    "finish": "20130109235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-09\">Jan. 9</TIMEX3>", 
+    "normalized_ner": "2013-01-09", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "9 january 2013", 
+    "start": "20130109000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 9224, 
+        "end": 9230, 
+        "id": 1270
+      }
+    ], 
+    "label": "9 January 2013"
+  }, 
+  {
+    "finish": "20130203235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W05\">this week</TIMEX3>", 
+    "normalized_ner": "2013-W05", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 05 of 2013", 
+    "start": "20130128000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 8677, 
+        "end": 8686, 
+        "id": 1278
+      }
+    ], 
+    "label": "Week 05 of 2013"
+  }, 
+  {
+    "finish": "20130201235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02-01\">the next day</TIMEX3>", 
+    "normalized_ner": "2013-02-01", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1 february 2013", 
+    "start": "20130201000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 7090, 
+        "end": 7102, 
+        "id": 1293
+      }
+    ], 
+    "label": "1 February 2013"
+  }, 
+  {
+    "finish": "20130123235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-23\">Jan. 23</TIMEX3>", 
+    "normalized_ner": "2013-01-23", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "23 january 2013", 
+    "start": "20130123000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 6672, 
+        "end": 6679, 
+        "id": 1299
+      }, 
+      {
+        "article": "31", 
+        "begin": 6672, 
+        "end": 6679, 
+        "id": 1300
+      }
+    ], 
+    "label": "23 January 2013"
+  }, 
+  {
+    "finish": "20001231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2000\">2000</TIMEX3>", 
+    "normalized_ner": "2000", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2000", 
+    "start": "20000101000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 5907, 
+        "end": 5911, 
+        "id": 1304
+      }
+    ], 
+    "label": "2000"
+  }, 
+  {
+    "finish": "20120930235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-Q3\">the third quarter</TIMEX3>", 
+    "normalized_ner": "2012-Q3", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "q3 2012", 
+    "start": "20120701000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 5386, 
+        "end": 5403, 
+        "id": 1307
+      }
+    ], 
+    "label": "Q3 2012"
+  }, 
+  {
+    "finish": "20130108235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-08\">Jan. 8</TIMEX3>", 
+    "normalized_ner": "2013-01-08", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "8 january 2013", 
+    "start": "20130108000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 3061, 
+        "end": 3067, 
+        "id": 1331
+      }
+    ], 
+    "label": "8 January 2013"
+  }, 
+  {
+    "finish": "20110531235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2011-05\">May 2011</TIMEX3>", 
+    "normalized_ner": "2011-05", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "may 2011", 
+    "start": "20110501000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 2730, 
+        "end": 2738, 
+        "id": 1336
+      }, 
+      {
+        "article": "31", 
+        "begin": 2730, 
+        "end": 2738, 
+        "id": 1337
+      }
+    ], 
+    "label": "May 2011"
+  }, 
+  {
+    "finish": "20111231235959", 
+    "timex": "<TIMEX3 beginPoint=\"t1\" endPoint=\"t2\" tid=\"t3\" type=\"DURATION\" value=\"PT35064H\">2007-2011</TIMEX3>", 
+    "normalized_ner": "2007/2011", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2007-2011", 
+    "start": "20070101000000", 
+    "mentions": [
+      {
+        "article": "31", 
+        "begin": 1852, 
+        "end": 1861, 
+        "id": 1344
+      }
+    ], 
+    "label": "2007-2011"
+  }, 
+  {
+    "finish": "20141231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2014\">next year</TIMEX3>", 
+    "normalized_ner": "2014", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2014", 
+    "start": "20140101000000", 
+    "mentions": [
+      {
+        "article": "32", 
+        "begin": 3666, 
+        "end": 3675, 
+        "id": 1358
+      }
+    ], 
+    "label": "2014"
+  }, 
+  {
+    "finish": "19951231235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"1995\">1995</TIMEX3>", 
+    "normalized_ner": "1995", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1995", 
+    "start": "19950101000000", 
+    "mentions": [
+      {
+        "article": "32", 
+        "begin": 2045, 
+        "end": 2049, 
+        "id": 1380
+      }, 
+      {
+        "article": "32", 
+        "begin": 2045, 
+        "end": 2049, 
+        "id": 1381
+      }
+    ], 
+    "label": "1995"
+  }, 
+  {
+    "finish": "19991231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"199X\">the 1990s</TIMEX3>", 
+    "normalized_ner": "199X", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1990-1999", 
+    "start": "19900101000000", 
+    "mentions": [
+      {
+        "article": "32", 
+        "begin": 1950, 
+        "end": 1959, 
+        "id": 1381
+      }, 
+      {
+        "article": "35", 
+        "begin": 1845, 
+        "end": 1854, 
+        "id": 1512
+      }, 
+      {
+        "article": "35", 
+        "begin": 336, 
+        "end": 341, 
+        "id": 1536
+      }
+    ], 
+    "label": "1990-1999"
+  }, 
+  {
+    "finish": "20071231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2004\">2004</TIMEX3>", 
+    "normalized_ner": "2004/2007", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2004-2007", 
+    "start": "20040101000000", 
+    "mentions": [
+      {
+        "article": "32", 
+        "begin": 714, 
+        "end": 718, 
+        "id": 1393
+      }, 
+      {
+        "article": "32", 
+        "begin": 723, 
+        "end": 727, 
+        "id": 1393
+      }, 
+      {
+        "article": "32", 
+        "begin": 714, 
+        "end": 718, 
+        "id": 1394
+      }, 
+      {
+        "article": "32", 
+        "begin": 723, 
+        "end": 727, 
+        "id": 1394
+      }, 
+      {
+        "article": "32", 
+        "begin": 714, 
+        "end": 718, 
+        "id": 1396
+      }, 
+      {
+        "article": "32", 
+        "begin": 723, 
+        "end": 727, 
+        "id": 1396
+      }
+    ], 
+    "label": "2004-2007"
+  }, 
+  {
+    "finish": "20121130235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-11\">last November</TIMEX3>", 
+    "normalized_ner": "2012-11", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "november 2012", 
+    "start": "20121101000000", 
+    "mentions": [
+      {
+        "article": "33", 
+        "begin": 2756, 
+        "end": 2769, 
+        "id": 1420
+      }, 
+      {
+        "article": "33", 
+        "begin": 2756, 
+        "end": 2769, 
+        "id": 1421
+      }
+    ], 
+    "label": "November 2012"
+  }, 
+  {
+    "finish": "19891231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1989\">1989</TIMEX3>", 
+    "normalized_ner": "1989", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1989", 
+    "start": "19890101000000", 
+    "mentions": [
+      {
+        "article": "34", 
+        "begin": 3903, 
+        "end": 3907, 
+        "id": 1450
+      }, 
+      {
+        "article": "34", 
+        "begin": 3903, 
+        "end": 3907, 
+        "id": 1451
+      }, 
+      {
+        "article": "34", 
+        "begin": 3903, 
+        "end": 3907, 
+        "id": 1452
+      }
+    ], 
+    "label": "1989"
+  }, 
+  {
+    "finish": "20130228235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02\">February</TIMEX3>", 
+    "normalized_ner": "2013-02", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "february 2013", 
+    "start": "20130201000000", 
+    "mentions": [
+      {
+        "article": "34", 
+        "begin": 2442, 
+        "end": 2450, 
+        "id": 1463
+      }, 
+      {
+        "article": "7", 
+        "begin": 1903, 
+        "end": 1916, 
+        "id": 2129
+      }, 
+      {
+        "article": "7", 
+        "begin": 1920, 
+        "end": 1929, 
+        "id": 2129
+      }, 
+      {
+        "article": "7", 
+        "begin": 1903, 
+        "end": 1916, 
+        "id": 2130
+      }, 
+      {
+        "article": "7", 
+        "begin": 1920, 
+        "end": 1929, 
+        "id": 2130
+      }
+    ], 
+    "label": "February 2013"
+  }, 
+  {
+    "finish": "20130204235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02-04\">today</TIMEX3>", 
+    "normalized_ner": "2013-02-04", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "4 february 2013", 
+    "start": "20130204000000", 
+    "mentions": [
+      {
+        "article": "34", 
+        "begin": 1941, 
+        "end": 1946, 
+        "id": 1466
+      }, 
+      {
+        "article": "34", 
+        "begin": 287, 
+        "end": 293, 
+        "id": 1487
+      }
+    ], 
+    "label": "4 February 2013"
+  }, 
+  {
+    "finish": "20130531235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-05\">May</TIMEX3>", 
+    "normalized_ner": "2013-05", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "may 2013", 
+    "start": "20130501000000", 
+    "mentions": [
+      {
+        "article": "34", 
+        "begin": 392, 
+        "end": 395, 
+        "id": 1483
+      }, 
+      {
+        "article": "34", 
+        "begin": 392, 
+        "end": 395, 
+        "id": 1484
+      }, 
+      {
+        "article": "34", 
+        "begin": 392, 
+        "end": 395, 
+        "id": 1485
+      }, 
+      {
+        "article": "34", 
+        "begin": 392, 
+        "end": 395, 
+        "id": 1486
+      }, 
+      {
+        "article": "7", 
+        "begin": 637, 
+        "end": 640, 
+        "id": 2141
+      }
+    ], 
+    "label": "May 2013"
+  }, 
+  {
+    "finish": "20130203235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02-03\">Sunday 3 February 2013</TIMEX3>", 
+    "normalized_ner": "2013-02-03", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "3 february 2013", 
+    "start": "20130203000000", 
+    "mentions": [
+      {
+        "article": "35", 
+        "begin": 263, 
+        "end": 285, 
+        "id": 1536
+      }, 
+      {
+        "article": "35", 
+        "begin": 263, 
+        "end": 285, 
+        "id": 1537
+      }, 
+      {
+        "article": "35", 
+        "begin": 263, 
+        "end": 285, 
+        "id": 1538
+      }, 
+      {
+        "article": "35", 
+        "begin": 263, 
+        "end": 285, 
+        "id": 1539
+      }
+    ], 
+    "label": "3 February 2013"
+  }, 
+  {
+    "finish": "20130129235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-29\">today</TIMEX3>", 
+    "normalized_ner": "2013-01-29", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "29 january 2013", 
+    "start": "20130129000000", 
+    "mentions": [
+      {
+        "article": "36", 
+        "begin": 4231, 
+        "end": 4236, 
+        "id": 1540
+      }, 
+      {
+        "article": "36", 
+        "begin": 4231, 
+        "end": 4236, 
+        "id": 1541
+      }, 
+      {
+        "article": "36", 
+        "begin": 147, 
+        "end": 154, 
+        "id": 1592
+      }
+    ], 
+    "label": "29 January 2013"
+  }, 
+  {
+    "finish": "20151231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2015\">2015</TIMEX3>", 
+    "normalized_ner": "2015", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2015", 
+    "start": "20150101000000", 
+    "mentions": [
+      {
+        "article": "36", 
+        "begin": 3080, 
+        "end": 3084, 
+        "id": 1559
+      }, 
+      {
+        "article": "36", 
+        "begin": 3080, 
+        "end": 3084, 
+        "id": 1560
+      }, 
+      {
+        "article": "36", 
+        "begin": 3080, 
+        "end": 3084, 
+        "id": 1561
+      }, 
+      {
+        "article": "5", 
+        "begin": 1153, 
+        "end": 1157, 
+        "id": 2086
+      }, 
+      {
+        "article": "5", 
+        "begin": 1153, 
+        "end": 1157, 
+        "id": 2091
+      }, 
+      {
+        "article": "7", 
+        "begin": 319, 
+        "end": 323, 
+        "id": 2143
+      }, 
+      {
+        "article": "7", 
+        "begin": 319, 
+        "end": 323, 
+        "id": 2144
+      }, 
+      {
+        "article": "7", 
+        "begin": 319, 
+        "end": 323, 
+        "id": 2147
+      }
+    ], 
+    "label": "2015"
+  }, 
+  {
+    "finish": "20130127235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W04\">last week</TIMEX3>", 
+    "normalized_ner": "2013-W04", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 04 of 2013", 
+    "start": "20130121000000", 
+    "mentions": [
+      {
+        "article": "36", 
+        "begin": 2342, 
+        "end": 2351, 
+        "id": 1566
+      }, 
+      {
+        "article": "36", 
+        "begin": 1294, 
+        "end": 1303, 
+        "id": 1576
+      }
+    ], 
+    "label": "Week 04 of 2013"
+  }, 
+  {
+    "finish": "20130129125959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2013-01-29TAF\">Tuesday afternoon</TIMEX3>", 
+    "normalized_ner": "2013-01-29TAF", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "afternoon of 29 january 2013", 
+    "start": "20130129060000", 
+    "mentions": [
+      {
+        "article": "36", 
+        "begin": 334, 
+        "end": 351, 
+        "id": 1591
+      }
+    ], 
+    "label": "afternoon of 29 January 2013"
+  }, 
+  {
+    "finish": "20130118235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-18\">Friday</TIMEX3>", 
+    "normalized_ner": "2013-01-18", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "18 january 2013", 
+    "start": "20130118000000", 
+    "mentions": [
+      {
+        "article": "37", 
+        "begin": 2814, 
+        "end": 2820, 
+        "id": 1598
+      }, 
+      {
+        "article": "37", 
+        "begin": 167, 
+        "end": 173, 
+        "id": 1638
+      }, 
+      {
+        "article": "37", 
+        "begin": 167, 
+        "end": 173, 
+        "id": 1639
+      }
+    ], 
+    "label": "18 January 2013"
+  }, 
+  {
+    "finish": "20130113235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W02\">Last week</TIMEX3>", 
+    "normalized_ner": "2013-W02", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 02 of 2013", 
+    "start": "20130107000000", 
+    "mentions": [
+      {
+        "article": "37", 
+        "begin": 2503, 
+        "end": 2512, 
+        "id": 1602
+      }
+    ], 
+    "label": "Week 02 of 2013"
+  }, 
+  {
+    "finish": "20130731235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2013-07\">July</TIMEX3>", 
+    "normalized_ner": "2013-07", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "july 2013", 
+    "start": "20130701000000", 
+    "mentions": [
+      {
+        "article": "37", 
+        "begin": 1062, 
+        "end": 1066, 
+        "id": 1623
+      }, 
+      {
+        "article": "37", 
+        "begin": 1062, 
+        "end": 1066, 
+        "id": 1624
+      }, 
+      {
+        "article": "37", 
+        "begin": 1062, 
+        "end": 1066, 
+        "id": 1625
+      }, 
+      {
+        "article": "37", 
+        "begin": 1062, 
+        "end": 1066, 
+        "id": 1626
+      }, 
+      {
+        "article": "37", 
+        "begin": 1062, 
+        "end": 1066, 
+        "id": 1627
+      }
+    ], 
+    "label": "July 2013"
+  }, 
+  {
+    "finish": "20110615005959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2011-06-15TNI\">tonight</TIMEX3>", 
+    "normalized_ner": "2011-06-15TNI", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "night of 15 june 2011", 
+    "start": "20110615180000", 
+    "mentions": [
+      {
+        "article": "38", 
+        "begin": 2074, 
+        "end": 2081, 
+        "id": 1643
+      }, 
+      {
+        "article": "38", 
+        "begin": 2074, 
+        "end": 2081, 
+        "id": 1644
+      }, 
+      {
+        "article": "38", 
+        "begin": 2074, 
+        "end": 2081, 
+        "id": 1645
+      }, 
+      {
+        "article": "38", 
+        "begin": 2074, 
+        "end": 2081, 
+        "id": 1646
+      }, 
+      {
+        "article": "38", 
+        "begin": 1042, 
+        "end": 1049, 
+        "id": 1660
+      }
+    ], 
+    "label": "night of 15 June 2011"
+  }, 
+  {
+    "finish": "20110614005959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2011-06-14TNI\">Tuesday night</TIMEX3>", 
+    "normalized_ner": "2011-06-14TNI", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "night of 14 june 2011", 
+    "start": "20110614180000", 
+    "mentions": [
+      {
+        "article": "38", 
+        "begin": 112, 
+        "end": 125, 
+        "id": 1671
+      }
+    ], 
+    "label": "night of 14 June 2011"
+  }, 
+  {
+    "finish": "20120331235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-03\">march</TIMEX3>", 
+    "normalized_ner": "2012-03", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "march 2012", 
+    "start": "20120301000000", 
+    "mentions": [
+      {
+        "article": "39", 
+        "begin": 516, 
+        "end": 521, 
+        "id": 1711
+      }, 
+      {
+        "article": "39", 
+        "begin": 516, 
+        "end": 521, 
+        "id": 1712
+      }, 
+      {
+        "article": "39", 
+        "begin": 516, 
+        "end": 521, 
+        "id": 1713
+      }
+    ], 
+    "label": "March 2012"
+  }, 
+  {
+    "finish": "20120719235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-07-19\">Thursday</TIMEX3>", 
+    "normalized_ner": "2012-07-19", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "19 july 2012", 
+    "start": "20120719000000", 
+    "mentions": [
+      {
+        "article": "4", 
+        "begin": 453, 
+        "end": 461, 
+        "id": 1728
+      }, 
+      {
+        "article": "4", 
+        "begin": 0, 
+        "end": 92, 
+        "id": 1733
+      }
+    ], 
+    "label": "19 July 2012"
+  }, 
+  {
+    "finish": "20120718235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"TIME\" value=\"2012-07-18TXX\">the last minute</TIMEX3>", 
+    "normalized_ner": "2012-07-18TXX", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "18 july 2012", 
+    "start": "20120718000000", 
+    "mentions": [
+      {
+        "article": "4", 
+        "begin": 385, 
+        "end": 400, 
+        "id": 1730
+      }, 
+      {
+        "article": "4", 
+        "begin": 385, 
+        "end": 400, 
+        "id": 1731
+      }
+    ], 
+    "label": "18 July 2012"
+  }, 
+  {
+    "finish": "20011231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1976\">1976</TIMEX3>", 
+    "normalized_ner": "1976/2001", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1976-2001", 
+    "start": "19760101000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 5869, 
+        "end": 5873, 
+        "id": 1743
+      }, 
+      {
+        "article": "40", 
+        "begin": 5878, 
+        "end": 5882, 
+        "id": 1743
+      }
+    ], 
+    "label": "1976-2001"
+  }, 
+  {
+    "finish": "20120119235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-01-19\">ten weeks later before</TIMEX3>", 
+    "normalized_ner": "2012-01-19", 
+    "pos": "IN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "19 january 2012", 
+    "start": "20120119000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 5352, 
+        "end": 5358, 
+        "id": 1750
+      }, 
+      {
+        "article": "40", 
+        "begin": 5336, 
+        "end": 5358, 
+        "id": 1751
+      }
+    ], 
+    "label": "19 January 2012"
+  }, 
+  {
+    "finish": "20111209235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2011-12-09\">9 December</TIMEX3>", 
+    "normalized_ner": "2011-12-09", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "9 december 2011", 
+    "start": "20111209000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 5317, 
+        "end": 5327, 
+        "id": 1752
+      }
+    ], 
+    "label": "9 December 2011"
+  }, 
+  {
+    "finish": "20081207235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2008-12-07\">7 December 2008</TIMEX3>", 
+    "normalized_ner": "2008-12-07", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "7 december 2008", 
+    "start": "20081207000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 5200, 
+        "end": 5215, 
+        "id": 1753
+      }
+    ], 
+    "label": "7 December 2008"
+  }, 
+  {
+    "finish": "20081107235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2008-11-07\">7 November 2008</TIMEX3>", 
+    "normalized_ner": "2008-11-07", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "7 november 2008", 
+    "start": "20081107000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 5180, 
+        "end": 5195, 
+        "id": 1754
+      }
+    ], 
+    "label": "7 November 2008"
+  }, 
+  {
+    "finish": "20080828235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2008-08-28\">28 August 2008</TIMEX3>", 
+    "normalized_ner": "2008-08-28", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "28 august 2008", 
+    "start": "20080828000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 4810, 
+        "end": 4824, 
+        "id": 1761
+      }
+    ], 
+    "label": "28 August 2008"
+  }, 
+  {
+    "finish": "20111110235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2011-11-10\">this day</TIMEX3>", 
+    "normalized_ner": "2011-11-10", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "10 november 2011", 
+    "start": "20111110000000", 
+    "mentions": [
+      {
+        "article": "40", 
+        "begin": 1143, 
+        "end": 1151, 
+        "id": 1798
+      }, 
+      {
+        "article": "40", 
+        "begin": 367, 
+        "end": 372, 
+        "id": 1809
+      }, 
+      {
+        "article": "40", 
+        "begin": 367, 
+        "end": 372, 
+        "id": 1811
+      }, 
+      {
+        "article": "40", 
+        "begin": 0, 
+        "end": 97, 
+        "id": 1812
+      }, 
+      {
+        "article": "40", 
+        "begin": 320, 
+        "end": 325, 
+        "id": 1812
+      }, 
+      {
+        "article": "40", 
+        "begin": 0, 
+        "end": 97, 
+        "id": 1816
+      }
+    ], 
+    "label": "10 November 2011"
+  }, 
+  {
+    "finish": "20121210235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-12-10\">The day</TIMEX3>", 
+    "normalized_ner": "2012-12-10", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "10 december 2012", 
+    "start": "20121210000000", 
+    "mentions": [
+      {
+        "article": "42", 
+        "begin": 2619, 
+        "end": 2626, 
+        "id": 1832
+      }, 
+      {
+        "article": "42", 
+        "begin": 1006, 
+        "end": 1013, 
+        "id": 1854
+      }, 
+      {
+        "article": "42", 
+        "begin": 1006, 
+        "end": 1013, 
+        "id": 1855
+      }, 
+      {
+        "article": "42", 
+        "begin": 1006, 
+        "end": 1013, 
+        "id": 1857
+      }, 
+      {
+        "article": "42", 
+        "begin": 850, 
+        "end": 855, 
+        "id": 1858
+      }, 
+      {
+        "article": "42", 
+        "begin": 850, 
+        "end": 855, 
+        "id": 1859
+      }
+    ], 
+    "label": "10 December 2012"
+  }, 
+  {
+    "finish": "20130512235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W19\">this week</TIMEX3>", 
+    "normalized_ner": "2013-W19", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 19 of 2013", 
+    "start": "20130506000000", 
+    "mentions": [
+      {
+        "article": "43", 
+        "begin": 887, 
+        "end": 896, 
+        "id": 1867
+      }
+    ], 
+    "label": "Week 19 of 2013"
+  }, 
+  {
+    "finish": "20130503235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-05-03\">Friday</TIMEX3>", 
+    "normalized_ner": "2013-05-03", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "3 may 2013", 
+    "start": "20130503000000", 
+    "mentions": [
+      {
+        "article": "43", 
+        "begin": 415, 
+        "end": 421, 
+        "id": 1874
+      }
+    ], 
+    "label": "3 May 2013"
+  }, 
+  {
+    "finish": "20130125235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-01-25\">Fri, Jan 25, 2013</TIMEX3>", 
+    "normalized_ner": "2013-01-25", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "25 january 2013", 
+    "start": "20130125000000", 
+    "mentions": [
+      {
+        "article": "43", 
+        "begin": 144, 
+        "end": 147, 
+        "id": 1876
+      }, 
+      {
+        "article": "43", 
+        "begin": 149, 
+        "end": 155, 
+        "id": 1876
+      }, 
+      {
+        "article": "43", 
+        "begin": 157, 
+        "end": 161, 
+        "id": 1876
+      }
+    ], 
+    "label": "25 January 2013"
+  }, 
+  {
+    "finish": "17991231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"17XX\">the 18th century</TIMEX3>", 
+    "normalized_ner": "17XX", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1700-1799", 
+    "start": "17000101000000", 
+    "mentions": [
+      {
+        "article": "44", 
+        "begin": 5377, 
+        "end": 5393, 
+        "id": 1881
+      }
+    ], 
+    "label": "1700-1799"
+  }, 
+  {
+    "finish": "54130101235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"5413-01-01TXX:XX\">The second</TIMEX3>", 
+    "normalized_ner": "5413-01-01TXX:XX", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "1 january 5413", 
+    "start": "54130101000000", 
+    "mentions": [
+      {
+        "article": "44", 
+        "begin": 3281, 
+        "end": 3291, 
+        "id": 1908
+      }
+    ], 
+    "label": "1 January 5413"
+  }, 
+  {
+    "finish": "19981231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"1998\">1998</TIMEX3>", 
+    "normalized_ner": "1998", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1998", 
+    "start": "19980101000000", 
+    "mentions": [
+      {
+        "article": "44", 
+        "begin": 656, 
+        "end": 660, 
+        "id": 1960
+      }, 
+      {
+        "article": "44", 
+        "begin": 656, 
+        "end": 660, 
+        "id": 1961
+      }
+    ], 
+    "label": "1998"
+  }, 
+  {
+    "finish": "20121223235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-FA\">fall</TIMEX3>", 
+    "normalized_ner": "2012-FA", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "fall of 2012", 
+    "start": "20120923000000", 
+    "mentions": [
+      {
+        "article": "45", 
+        "begin": 5749, 
+        "end": 5753, 
+        "id": 2001
+      }, 
+      {
+        "article": "45", 
+        "begin": 5749, 
+        "end": 5753, 
+        "id": 2002
+      }
+    ], 
+    "label": "fall of 2012"
+  }, 
+  {
+    "finish": "20120131235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-01\">January</TIMEX3>", 
+    "normalized_ner": "2012-01", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "january 2012", 
+    "start": "20120101000000", 
+    "mentions": [
+      {
+        "article": "45", 
+        "begin": 1181, 
+        "end": 1188, 
+        "id": 2053
+      }, 
+      {
+        "article": "45", 
+        "begin": 1181, 
+        "end": 1188, 
+        "id": 2054
+      }, 
+      {
+        "article": "45", 
+        "begin": 1181, 
+        "end": 1188, 
+        "id": 2055
+      }
+    ], 
+    "label": "January 2012"
+  }, 
+  {
+    "finish": "20130205125959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2013-02-05T12:59\">one of 13</TIMEX3>", 
+    "normalized_ner": "2013-02-05T12:59", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "5 february 2013 at 12:59", 
+    "start": "20130205125900", 
+    "mentions": [
+      {
+        "article": "5", 
+        "begin": 2702, 
+        "end": 2705, 
+        "id": 2074
+      }, 
+      {
+        "article": "5", 
+        "begin": 2709, 
+        "end": 2711, 
+        "id": 2074
+      }
+    ], 
+    "label": "5 February 2013 at 12:59"
+  }, 
+  {
+    "finish": "20130205235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-02-05\">the day</TIMEX3>", 
+    "normalized_ner": "2013-02-05", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "5 february 2013", 
+    "start": "20130205000000", 
+    "mentions": [
+      {
+        "article": "5", 
+        "begin": 1808, 
+        "end": 1815, 
+        "id": 2081
+      }, 
+      {
+        "article": "5", 
+        "begin": 1808, 
+        "end": 1815, 
+        "id": 2082
+      }, 
+      {
+        "article": "5", 
+        "begin": 1808, 
+        "end": 1815, 
+        "id": 2083
+      }, 
+      {
+        "article": "5", 
+        "begin": 0, 
+        "end": 114, 
+        "id": 2102
+      }, 
+      {
+        "article": "7", 
+        "begin": 180, 
+        "end": 187, 
+        "id": 2147
+      }
+    ], 
+    "label": "5 February 2013"
+  }, 
+  {
+    "finish": "20130210235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2013-W06\">earlier this week</TIMEX3>", 
+    "normalized_ner": "2013-W06", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 06 of 2013", 
+    "start": "20130204000000", 
+    "mentions": [
+      {
+        "article": "7", 
+        "begin": 3788, 
+        "end": 3805, 
+        "id": 2116
+      }
+    ], 
+    "label": "Week 06 of 2013"
+  }, 
+  {
+    "finish": "20011231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2001\">2001</TIMEX3>", 
+    "normalized_ner": "2001", 
+    "pos": "CD", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2001", 
+    "start": "20010101000000", 
+    "mentions": [
+      {
+        "article": "7", 
+        "begin": 3057, 
+        "end": 3061, 
+        "id": 2117
+      }
+    ], 
+    "label": "2001"
+  }, 
+  {
+    "finish": "20120904235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-09-04\">Tuesday</TIMEX3>", 
+    "normalized_ner": "2012-09-04", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "4 september 2012", 
+    "start": "20120904000000", 
+    "mentions": [
+      {
+        "article": "8", 
+        "begin": 2596, 
+        "end": 2603, 
+        "id": 2151
+      }, 
+      {
+        "article": "8", 
+        "begin": 91, 
+        "end": 98, 
+        "id": 2175
+      }
+    ], 
+    "label": "4 September 2012"
+  }, 
+  {
+    "finish": "20120905125959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"TIME\" value=\"2012-09-05TAF\">this afternoon</TIMEX3>", 
+    "normalized_ner": "2012-09-05TAF", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "TIME"
+    ], 
+    "lowercase_label": "afternoon of 5 september 2012", 
+    "start": "20120905060000", 
+    "mentions": [
+      {
+        "article": "8", 
+        "begin": 2262, 
+        "end": 2276, 
+        "id": 2158
+      }
+    ], 
+    "label": "afternoon of 5 September 2012"
+  }, 
+  {
+    "finish": "20120905235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-09-05\">2012/09/05</TIMEX3>", 
+    "normalized_ner": "2012-09-05", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "5 september 2012", 
+    "start": "20120905000000", 
+    "mentions": [
+      {
+        "article": "8", 
+        "begin": 0, 
+        "end": 86, 
+        "id": 2175
+      }
+    ], 
+    "label": "5 September 2012"
+  }, 
+  {
+    "finish": "20120916235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-W38\">this week</TIMEX3>", 
+    "normalized_ner": "2012-W38", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "week 38 of 2012", 
+    "start": "20120910000000", 
+    "mentions": [
+      {
+        "article": "9", 
+        "begin": 4578, 
+        "end": 4587, 
+        "id": 2176
+      }, 
+      {
+        "article": "9", 
+        "begin": 4578, 
+        "end": 4587, 
+        "id": 2178
+      }
+    ], 
+    "label": "Week 38 of 2012"
+  }, 
+  {
+    "finish": "20120919235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-09-19\">Wednesday</TIMEX3>", 
+    "normalized_ner": "2012-09-19", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "19 september 2012", 
+    "start": "20120919000000", 
+    "mentions": [
+      {
+        "article": "9", 
+        "begin": 2935, 
+        "end": 2944, 
+        "id": 2192
+      }, 
+      {
+        "article": "9", 
+        "begin": 2602, 
+        "end": 2611, 
+        "id": 2194
+      }, 
+      {
+        "article": "9", 
+        "begin": 200, 
+        "end": 209, 
+        "id": 2219
+      }, 
+      {
+        "article": "9", 
+        "begin": 200, 
+        "end": 209, 
+        "id": 2220
+      }
+    ], 
+    "label": "19 September 2012"
+  }, 
+  {
+    "finish": "20991231235959", 
+    "timex": "<TIMEX3 mod=\"MID\" tid=\"t1\" type=\"DATE\" value=\"20XX\">the middle of this century</TIMEX3>", 
+    "normalized_ner": "20XX", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "2000-2099", 
+    "start": "20000101000000", 
+    "mentions": [
+      {
+        "article": "9", 
+        "begin": 2193, 
+        "end": 2203, 
+        "id": 2196
+      }, 
+      {
+        "article": "9", 
+        "begin": 2207, 
+        "end": 2219, 
+        "id": 2196
+      }, 
+      {
+        "article": "9", 
+        "begin": 2193, 
+        "end": 2203, 
+        "id": 2197
+      }, 
+      {
+        "article": "9", 
+        "begin": 2207, 
+        "end": 2219, 
+        "id": 2197
+      }
+    ], 
+    "label": "2000-2099"
+  }, 
+  {
+    "finish": "19791231235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"SET\" value=\"197X\">1970s</TIMEX3>", 
+    "normalized_ner": "197X", 
+    "pos": "NNS", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "1970-1979", 
+    "start": "19700101000000", 
+    "mentions": [
+      {
+        "article": "9", 
+        "begin": 653, 
+        "end": 658, 
+        "id": 2213
+      }, 
+      {
+        "article": "9", 
+        "begin": 653, 
+        "end": 658, 
+        "id": 2214
+      }
+    ], 
+    "label": "1970-1979"
+  }, 
+  {
+    "finish": "20120916235959", 
+    "timex": "<TIMEX3 tid=\"t2\" type=\"DATE\" value=\"2012-09-16\">Sunday</TIMEX3>", 
+    "normalized_ner": "2012-09-16", 
+    "pos": "NNP", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "16 september 2012", 
+    "start": "20120916000000", 
+    "mentions": [
+      {
+        "article": "9", 
+        "begin": 379, 
+        "end": 385, 
+        "id": 2218
+      }
+    ], 
+    "label": "16 September 2012"
+  }, 
+  {
+    "finish": "20120920235959", 
+    "timex": "<TIMEX3 tid=\"t1\" type=\"DATE\" value=\"2012-09-20\">2012/09/20</TIMEX3>", 
+    "normalized_ner": "2012-09-20", 
+    "pos": "NN", 
+    "corenlp_types": [
+      "DATE"
+    ], 
+    "lowercase_label": "20 september 2012", 
+    "start": "20120920000000", 
+    "mentions": [
+      {
+        "article": "9", 
+        "begin": 0, 
+        "end": 107, 
+        "id": 2220
+      }
+    ], 
+    "label": "20 September 2012"
+  }
+]

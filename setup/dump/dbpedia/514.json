@@ -1,0 +1,9 @@
+{
+  "http://en.wikipedia.org/wiki/St._Louis" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/St._Louis" } ] } ,
+  "http://dbpedia.org/resource/St._Louis" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/St._Louis" } ] ,
+    "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Redirects_from_more_specific_geographic_names" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "St. Louis" , "lang" : "en" } ] ,
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/St._Louis" } ] ,
+    "http://www.w3.org/ns/prov#wasDerivedFrom" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/St._Louis?oldid=472210314" } ] ,
+    "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/St._Louis,_Missouri" } ] }
+}

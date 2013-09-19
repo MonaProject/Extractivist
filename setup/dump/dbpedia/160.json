@@ -1,0 +1,14 @@
+{
+  "http://mpii.de/yago/resource/Elliott_Associates" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elliott_Associates" } ] } ,
+  "http://en.wikipedia.org/wiki/Elliott_Associates" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elliott_Associates" } ] } ,
+  "http://dbpedia.org/resource/Eliott_Associates" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elliott_Associates" } ] } ,
+  "http://dbpedia.org/resource/Elliott_Associates" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://dbpedia.org/class/yago/HedgeFunds" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elliott_Associates" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.0bbz6vc" } ] ,
+    "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Hedge_fund_firms_in_New_York_City" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#comment" : [ { "type" : "literal", "value" : "Elliot Associates is a hedge fund based in New York." , "lang" : "en" } ] ,
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Elliott_Associates" } ] ,
+    "http://www.w3.org/ns/prov#wasDerivedFrom" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Elliott_Associates?oldid=485576582" } ] ,
+    "http://dbpedia.org/ontology/abstract" : [ { "type" : "literal", "value" : "Elliot Associates is a hedge fund based in New York." , "lang" : "en" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Elliott_Associates" } ] }
+}

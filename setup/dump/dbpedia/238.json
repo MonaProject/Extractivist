@@ -1,0 +1,23 @@
+{
+  "http://mpii.de/yago/resource/Richmond_City_Council_%28Richmond,_California%29" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_City_Council_(Richmond,_California)" } ] } ,
+  "http://en.wikipedia.org/wiki/Richmond_City_Council_(Richmond,_California)" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_City_Council_(Richmond,_California)" } ] } ,
+  "http://dbpedia.org/resource/Richmond_City_Council" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_City_Council_(Richmond,_California)" } ] } ,
+  "http://dbpedia.org/resource/Tony_K._Thurmond" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_City_Council_(Richmond,_California)" } ] } ,
+  "http://dbpedia.org/resource/Richmond_City_Council_(Richmond,_California)" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://dbpedia.org/class/yago/UnitedStatesCityCouncils" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.0gmg_j" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_City_Council_(Richmond,_California)" } ] ,
+    "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Local_government_in_California" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Government_in_the_San_Francisco_Bay_Area" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Richmond_City_Council_members_(California)" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Government_of_Contra_Costa_County,_California" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:United_States_city_councils" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Richmond,_California" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Richmond City Council (Richmond, California)" , "lang" : "en" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#comment" : [ { "type" : "literal", "value" : "The Richmond City Council is the governing body for the city of Richmond, California." , "lang" : "en" } ] ,
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Richmond_City_Council_(Richmond,_California)" } ] ,
+    "http://www.w3.org/ns/prov#wasDerivedFrom" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Richmond_City_Council_(Richmond,_California)?oldid=489896612" } ] ,
+    "http://dbpedia.org/ontology/abstract" : [ { "type" : "literal", "value" : "The Richmond City Council is the governing body for the city of Richmond, California." , "lang" : "en" } ] ,
+    "http://dbpedia.org/ontology/wikiPageExternalLink" : [ { "type" : "uri", "value" : "http://www.ci.richmond.ca.us/index.asp?NID=29" } ,
+      { "type" : "uri", "value" : "http://ca-richmond.civicplus.com/index.aspx?NID=149" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Richmond_City_Council_(Richmond,_California)" } ] }
+}

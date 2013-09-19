@@ -1,0 +1,7 @@
+{
+  "http://en.wikipedia.org/wiki/Jaguar_F-Type" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Jaguar_F-Type" } ] } ,
+  "http://dbpedia.org/resource/Jaguar_F-Type" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Jaguar_F-Type" } ] ,
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Jaguar_F-Type" } ] ,
+    "http://www.w3.org/ns/prov#wasDerivedFrom" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Jaguar_F-Type?oldid=485877811" } ] ,
+    "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Jaguar_C-X16" } ] }
+}
