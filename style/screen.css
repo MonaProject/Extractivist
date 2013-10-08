@@ -1505,3 +1505,7 @@ a.button:hover {
 .ui-button:hover {
   background:           #333;
 }
+
+#dialog-search {
+  display:              none;
+}
